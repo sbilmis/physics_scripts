@@ -1,0 +1,438 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 13.2' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[     15638,        428]
+NotebookOptionsPosition[     13807,        391]
+NotebookOutlinePosition[     14247,        408]
+CellTagsIndexPosition[     14204,        405]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell["\<\
+Take the orbital angular momentum \[OpenCurlyDoubleQuote]l\
+\[CloseCurlyDoubleQuote] and spin \[OpenCurlyDoubleQuote]s\
+\[CloseCurlyDoubleQuote] from the users and output possible spectroscopic \
+notations and corresponding J^P states\[LineSeparator]\
+\>", "Text",
+ CellChangeTimes->{{3.924850594144862*^9, 
+  3.9248506605322742`*^9}},ExpressionUUID->"829f8515-6e2c-48c4-95d6-\
+786bee708ddb"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"(*", 
+   RowBox[{
+   "Define", " ", "the", " ", "function", " ", "to", " ", "generate", " ", 
+    "spectroscopic", " ", "notations"}], "*)"}], 
+  RowBox[{
+   RowBox[{
+    RowBox[{"MesonSpectroscopy", "[", 
+     RowBox[{"l_", ",", "s_"}], "]"}], ":=", 
+    RowBox[{"Module", "[", 
+     RowBox[{
+      RowBox[{"{", 
+       RowBox[{
+       "LDict", ",", "L", ",", "notations", ",", "JPStates", ",", "j", ",", 
+        "parity", ",", "P"}], "}"}], ",", 
+      RowBox[{
+       RowBox[{"LDict", "=", 
+        RowBox[{"<|", 
+         RowBox[{
+          RowBox[{"0", "->", "\"\<S\>\""}], ",", 
+          RowBox[{"1", "->", "\"\<P\>\""}], ",", 
+          RowBox[{"2", "->", "\"\<D\>\""}], ",", 
+          RowBox[{"3", "->", "\"\<F\>\""}], ",", 
+          RowBox[{"4", "->", "\"\<G\>\""}], ",", 
+          RowBox[{"5", "->", "\"\<H\>\""}]}], "|>"}]}], ";", 
+       "\[IndentingNewLine]", 
+       RowBox[{"If", "[", 
+        RowBox[{
+         RowBox[{"!", 
+          RowBox[{"KeyExistsQ", "[", 
+           RowBox[{"LDict", ",", "l"}], "]"}]}], ",", 
+         RowBox[{
+          RowBox[{
+          "Print", "[", 
+           "\"\<l value is too high; this program currently supports up to \
+l=5\>\"", "]"}], ";", "\[IndentingNewLine]", 
+          RowBox[{"Return", "[", "]"}]}]}], "]"}], ";", "\[IndentingNewLine]", 
+       RowBox[{"L", "=", 
+        RowBox[{"LDict", "[", "l", "]"}]}], ";", "\[IndentingNewLine]", 
+       RowBox[{"notations", "=", 
+        RowBox[{"{", "}"}]}], ";", "\[IndentingNewLine]", 
+       RowBox[{"JPStates", "=", 
+        RowBox[{"{", "}"}]}], ";", "\[IndentingNewLine]", 
+       RowBox[{"Do", "[", 
+        RowBox[{
+         RowBox[{
+          RowBox[{"AppendTo", "[", 
+           RowBox[{"notations", ",", 
+            RowBox[{"\"\<n^\>\"", "<>", 
+             RowBox[{"ToString", "[", 
+              RowBox[{
+               RowBox[{"2", " ", "s"}], "+", "1"}], "]"}], "<>", "L", "<>", 
+             "\"\<_\>\"", "<>", 
+             RowBox[{"ToString", "[", "j", "]"}]}]}], "]"}], ";", 
+          "\[IndentingNewLine]", 
+          RowBox[{"parity", "=", 
+           RowBox[{
+            RowBox[{"(", 
+             RowBox[{"-", "1"}], ")"}], "^", 
+            RowBox[{"(", 
+             RowBox[{"l", "+", "1"}], ")"}]}]}], ";", "\[IndentingNewLine]", 
+          RowBox[{"P", "=", 
+           RowBox[{"If", "[", 
+            RowBox[{
+             RowBox[{"parity", "==", "1"}], ",", "\"\<+\>\"", ",", 
+             "\"\<-\>\""}], "]"}]}], ";", "\[IndentingNewLine]", 
+          RowBox[{"AppendTo", "[", 
+           RowBox[{"JPStates", ",", 
+            RowBox[{
+             RowBox[{"ToString", "[", "j", "]"}], "<>", "\"\<^\>\"", "<>", 
+             "P"}]}], "]"}]}], ",", 
+         RowBox[{"{", 
+          RowBox[{"j", ",", 
+           RowBox[{"Abs", "[", 
+            RowBox[{"l", "-", "s"}], "]"}], ",", 
+           RowBox[{"l", "+", "s"}]}], "}"}]}], "]"}], ";", 
+       "\[IndentingNewLine]", 
+       RowBox[{"{", 
+        RowBox[{"notations", ",", "JPStates"}], "}"}]}]}], "]"}]}], 
+   "\[IndentingNewLine]", "\n", 
+   RowBox[{"(*", 
+    RowBox[{"User", " ", "input"}], "*)"}], "\[IndentingNewLine]", 
+   RowBox[{
+    RowBox[{"l", "=", 
+     RowBox[{
+     "Input", "[", 
+      "\"\<Enter the value of l (orbital angular momentum): \>\"", "]"}]}], 
+    ";"}], "\n", 
+   RowBox[{
+    RowBox[{"s", "=", 
+     RowBox[{"Input", "[", "\"\<Enter the value of s (spin): \>\"", "]"}]}], 
+    ";"}], "\[IndentingNewLine]", "\n", 
+   RowBox[{"(*", 
+    RowBox[{
+    "Calculate", " ", "possible", " ", "spectroscopic", " ", "notations", " ",
+      "and", " ", 
+     RowBox[{"J", "^", "P"}], " ", "states"}], "*)"}], "\[IndentingNewLine]", 
+   
+   RowBox[{
+    RowBox[{
+     RowBox[{"{", 
+      RowBox[{"notations", ",", "jpStates"}], "}"}], "=", 
+     RowBox[{"MesonSpectroscopy", "[", 
+      RowBox[{"l", ",", "s"}], "]"}]}], ";"}], "\[IndentingNewLine]", "\n", 
+   RowBox[{"(*", 
+    RowBox[{"Display", " ", "results"}], "*)"}], "\[IndentingNewLine]", 
+   RowBox[{
+    RowBox[{
+    "Print", "[", "\"\<\\nPossible Spectroscopic Notations:\>\"", "]"}], 
+    ";"}], "\n", 
+   RowBox[{
+    RowBox[{"Do", "[", 
+     RowBox[{
+      RowBox[{"Print", "[", "notation", "]"}], ",", 
+      RowBox[{"{", 
+       RowBox[{"notation", ",", "notations"}], "}"}]}], "]"}], ";"}], "\n", 
+   "\[IndentingNewLine]", 
+   RowBox[{
+    RowBox[{"Print", "[", "\"\<\\nCorresponding J^P States:\>\"", "]"}], 
+    ";"}], "\n", 
+   RowBox[{
+    RowBox[{"Do", "[", 
+     RowBox[{
+      RowBox[{"Print", "[", "jp", "]"}], ",", 
+      RowBox[{"{", 
+       RowBox[{"jp", ",", "jpStates"}], "}"}]}], "]"}], ";"}], 
+   "\n"}]}]], "Input",
+ CellChangeTimes->{{3.9248509450431623`*^9, 3.924850945045115*^9}},
+ CellLabel->"In[69]:=",ExpressionUUID->"e97e551d-0efb-4745-a21c-6f649f71b581"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ FormBox["\<\"\\nPossible Spectroscopic Notations:\"\>", 
+  TraditionalForm]], "Print",
+ CellChangeTimes->{{3.924850952448805*^9, 3.924850959111874*^9}},
+ CellLabel->
+  "During evaluation of \
+In[69]:=",ExpressionUUID->"3d282f4b-86ad-4614-b8b9-7684a6166d6f"],
+
+Cell[BoxData[
+ FormBox["\<\"n^3P_0\"\>", TraditionalForm]], "Print",
+ CellChangeTimes->{{3.924850952448805*^9, 3.924850959115231*^9}},
+ CellLabel->
+  "During evaluation of \
+In[69]:=",ExpressionUUID->"19dce52c-ad79-4c40-9c85-8a20c7abe11d"],
+
+Cell[BoxData[
+ FormBox["\<\"n^3P_1\"\>", TraditionalForm]], "Print",
+ CellChangeTimes->{{3.924850952448805*^9, 3.924850959118301*^9}},
+ CellLabel->
+  "During evaluation of \
+In[69]:=",ExpressionUUID->"093aeec8-f884-4e1b-8b52-e0ff8b175270"],
+
+Cell[BoxData[
+ FormBox["\<\"n^3P_2\"\>", TraditionalForm]], "Print",
+ CellChangeTimes->{{3.924850952448805*^9, 3.924850959120802*^9}},
+ CellLabel->
+  "During evaluation of \
+In[69]:=",ExpressionUUID->"0872b5e8-309c-45ef-a247-215fbe064160"],
+
+Cell[BoxData[
+ FormBox["\<\"\\nCorresponding J^P States:\"\>", TraditionalForm]], "Print",
+ CellChangeTimes->{{3.924850952448805*^9, 3.924850959123266*^9}},
+ CellLabel->
+  "During evaluation of \
+In[69]:=",ExpressionUUID->"38e9a1c0-08bc-4452-bee4-24d251d0828c"],
+
+Cell[BoxData[
+ FormBox["\<\"0^+\"\>", TraditionalForm]], "Print",
+ CellChangeTimes->{{3.924850952448805*^9, 3.924850959125595*^9}},
+ CellLabel->
+  "During evaluation of \
+In[69]:=",ExpressionUUID->"8432583c-db42-4126-844d-ddd3747e6649"],
+
+Cell[BoxData[
+ FormBox["\<\"1^+\"\>", TraditionalForm]], "Print",
+ CellChangeTimes->{{3.924850952448805*^9, 3.924850959127883*^9}},
+ CellLabel->
+  "During evaluation of \
+In[69]:=",ExpressionUUID->"fab4661b-867d-4850-b00f-36efad442f19"],
+
+Cell[BoxData[
+ FormBox["\<\"2^+\"\>", TraditionalForm]], "Print",
+ CellChangeTimes->{{3.924850952448805*^9, 3.92485095913024*^9}},
+ CellLabel->
+  "During evaluation of \
+In[69]:=",ExpressionUUID->"c63b337d-3220-4ea2-9df9-ac3bd355fc86"]
+}, Open  ]]
+}, Open  ]],
+
+Cell["\<\
+Take J^P of the state from user and return the spectroscopic notation\
+\>", "Text",
+ CellChangeTimes->{{3.924850986790392*^9, 
+  3.924851017007662*^9}},ExpressionUUID->"6a5b5d41-8f50-43f9-b5c9-\
+2628ddd4537f"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"(*", 
+   RowBox[{
+   "Define", " ", "the", " ", "function", " ", "to", " ", "find", " ", 
+    "possible", " ", "l", " ", "values", " ", "from", " ", "parity"}], "*)"}], 
+  RowBox[{
+   RowBox[{
+    RowBox[{"ParityToL", "[", "P_", "]"}], ":=", 
+    RowBox[{"Module", "[", 
+     RowBox[{
+      RowBox[{"{", "lValues", "}"}], ",", 
+      RowBox[{
+       RowBox[{"lValues", "=", 
+        RowBox[{"If", "[", 
+         RowBox[{
+          RowBox[{"P", "==", "\"\<+\>\""}], ",", 
+          RowBox[{"Range", "[", 
+           RowBox[{"1", ",", "5", ",", "2"}], "]"}], ",", 
+          RowBox[{"(*", 
+           RowBox[{
+            RowBox[{"l", "=", "1"}], ",", "3", ",", "5"}], "*)"}], 
+          RowBox[{"Range", "[", 
+           RowBox[{"0", ",", "5", ",", "2"}], "]"}]}], "  ", 
+         RowBox[{"(*", 
+          RowBox[{
+           RowBox[{"l", "=", "0"}], ",", "2", ",", "4"}], "*)"}], "]"}]}], 
+       ";", "\[IndentingNewLine]", "lValues"}]}], "]"}]}], 
+   "\[IndentingNewLine]", "\n", 
+   RowBox[{"(*", 
+    RowBox[{
+    "Define", " ", "the", " ", "function", " ", "to", " ", "generate", " ", 
+     "spectroscopic", " ", "notations", " ", "from", " ", 
+     RowBox[{"J", "^", "P"}]}], "*)"}], "\[IndentingNewLine]", 
+   RowBox[{
+    RowBox[{"MesonSpectroscopyFromJP", "[", 
+     RowBox[{"J_", ",", "P_"}], "]"}], ":=", 
+    RowBox[{"Module", "[", 
+     RowBox[{
+      RowBox[{"{", 
+       RowBox[{
+       "LDict", ",", "possibleNotations", ",", "lValues", ",", "L", ",", "s", 
+        ",", "jValues"}], "}"}], ",", 
+      RowBox[{
+       RowBox[{"LDict", "=", 
+        RowBox[{"<|", 
+         RowBox[{
+          RowBox[{"0", "->", "\"\<S\>\""}], ",", 
+          RowBox[{"1", "->", "\"\<P\>\""}], ",", 
+          RowBox[{"2", "->", "\"\<D\>\""}], ",", 
+          RowBox[{"3", "->", "\"\<F\>\""}], ",", 
+          RowBox[{"4", "->", "\"\<G\>\""}], ",", 
+          RowBox[{"5", "->", "\"\<H\>\""}]}], "|>"}]}], ";", 
+       "\[IndentingNewLine]", 
+       RowBox[{"possibleNotations", "=", 
+        RowBox[{"{", "}"}]}], ";", "\[IndentingNewLine]", 
+       RowBox[{"(*", 
+        RowBox[{
+        "Find", " ", "possible", " ", "l", " ", "values", " ", "from", " ", 
+         "parity"}], "*)"}], 
+       RowBox[{"lValues", "=", 
+        RowBox[{"ParityToL", "[", "P", "]"}]}], ";", "\[IndentingNewLine]", 
+       RowBox[{"Do", "[", 
+        RowBox[{
+         RowBox[{"Do", "[", 
+          RowBox[{
+           RowBox[{
+            RowBox[{"jValues", "=", 
+             RowBox[{"Range", "[", 
+              RowBox[{
+               RowBox[{"Abs", "[", 
+                RowBox[{"l", "-", "s"}], "]"}], ",", 
+               RowBox[{"l", "+", "s"}]}], "]"}]}], ";", "\[IndentingNewLine]", 
+            RowBox[{"If", "[", 
+             RowBox[{
+              RowBox[{"MemberQ", "[", 
+               RowBox[{"jValues", ",", "J"}], "]"}], ",", 
+              RowBox[{
+               RowBox[{"L", "=", 
+                RowBox[{"LDict", "[", "l", "]"}]}], ";", 
+               "\[IndentingNewLine]", 
+               RowBox[{"AppendTo", "[", 
+                RowBox[{"possibleNotations", ",", 
+                 RowBox[{"\"\<n^\>\"", "<>", 
+                  RowBox[{"ToString", "[", 
+                   RowBox[{
+                    RowBox[{"2", " ", "s"}], "+", "1"}], "]"}], "<>", "L", 
+                  "<>", "\"\<_\>\"", "<>", 
+                  RowBox[{"ToString", "[", "J", "]"}]}]}], "]"}]}]}], "]"}]}],
+            ",", 
+           RowBox[{"{", 
+            RowBox[{"s", ",", "0", ",", "1"}], "}"}]}], "]"}], ",", 
+         RowBox[{"{", 
+          RowBox[{"l", ",", "lValues"}], "}"}]}], "]"}], ";", 
+       "\[IndentingNewLine]", "possibleNotations"}]}], "]"}]}], 
+   "\[IndentingNewLine]", "\n", 
+   RowBox[{"(*", 
+    RowBox[{"User", " ", "input"}], "*)"}], "\[IndentingNewLine]", 
+   RowBox[{
+    RowBox[{"J", "=", 
+     RowBox[{
+     "Input", "[", "\"\<Enter the value of J (total angular momentum): \>\"", 
+      "]"}]}], ";"}], "\n", 
+   RowBox[{
+    RowBox[{"P", "=", 
+     RowBox[{
+     "Input", "[", "\"\<Enter the parity (P), '+' or '-': \>\"", "]"}]}], 
+    ";"}], "\[IndentingNewLine]", "\n", 
+   RowBox[{"(*", 
+    RowBox[{
+    "Calculate", " ", "possible", " ", "spectroscopic", " ", "notations"}], 
+    "*)"}], "\[IndentingNewLine]", 
+   RowBox[{
+    RowBox[{"notations", "=", 
+     RowBox[{"MesonSpectroscopyFromJP", "[", 
+      RowBox[{"J", ",", "P"}], "]"}]}], ";"}], "\[IndentingNewLine]", "\n", 
+   RowBox[{"(*", 
+    RowBox[{"Display", " ", "results"}], "*)"}], "\[IndentingNewLine]", 
+   RowBox[{
+    RowBox[{
+    "Print", "[", "\"\<\\nPossible Spectroscopic Notations:\>\"", "]"}], 
+    ";"}], "\n", 
+   RowBox[{
+    RowBox[{"Do", "[", 
+     RowBox[{
+      RowBox[{"Print", "[", "notation", "]"}], ",", 
+      RowBox[{"{", 
+       RowBox[{"notation", ",", "notations"}], "}"}]}], "]"}], ";"}], 
+   "\n"}]}]], "Input",
+ CellChangeTimes->{{3.924851018577538*^9, 3.9248510185802593`*^9}},
+ CellLabel->"In[77]:=",ExpressionUUID->"30b5f712-5418-4055-8d6f-f48b7ec3b97f"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ FormBox["\<\"\\nPossible Spectroscopic Notations:\"\>", 
+  TraditionalForm]], "Print",
+ CellChangeTimes->{3.924851024501843*^9},
+ CellLabel->
+  "During evaluation of \
+In[77]:=",ExpressionUUID->"907cc59b-9e42-4991-b87d-c4916df39f87"],
+
+Cell[BoxData[
+ FormBox["\<\"n^3S_1\"\>", TraditionalForm]], "Print",
+ CellChangeTimes->{3.924851024506688*^9},
+ CellLabel->
+  "During evaluation of \
+In[77]:=",ExpressionUUID->"4618b49e-36b5-4e14-90e0-76e703324e5b"],
+
+Cell[BoxData[
+ FormBox["\<\"n^3D_1\"\>", TraditionalForm]], "Print",
+ CellChangeTimes->{3.9248510245103683`*^9},
+ CellLabel->
+  "During evaluation of \
+In[77]:=",ExpressionUUID->"8c2c63e7-e871-4c1a-9ba1-cb34220a6a3d"]
+}, Open  ]]
+}, Open  ]]
+},
+WindowSize->{808, 755},
+WindowMargins->{{425, Automatic}, {Automatic, 110}},
+TaggingRules-><|"TryRealOnly" -> False|>,
+FrontEndVersion->"13.2 for Mac OS X x86 (64-bit) (January 30, 2023)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"367b866a-3435-470c-9962-3c38cdf44dba"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[558, 20, 402, 8, 81, "Text",ExpressionUUID->"829f8515-6e2c-48c4-95d6-786bee708ddb"],
+Cell[CellGroupData[{
+Cell[985, 32, 4798, 129, 640, "Input",ExpressionUUID->"e97e551d-0efb-4745-a21c-6f649f71b581"],
+Cell[CellGroupData[{
+Cell[5808, 165, 272, 6, 36, "Print",ExpressionUUID->"3d282f4b-86ad-4614-b8b9-7684a6166d6f"],
+Cell[6083, 173, 239, 5, 20, "Print",ExpressionUUID->"19dce52c-ad79-4c40-9c85-8a20c7abe11d"],
+Cell[6325, 180, 239, 5, 20, "Print",ExpressionUUID->"093aeec8-f884-4e1b-8b52-e0ff8b175270"],
+Cell[6567, 187, 239, 5, 20, "Print",ExpressionUUID->"0872b5e8-309c-45ef-a247-215fbe064160"],
+Cell[6809, 194, 261, 5, 36, "Print",ExpressionUUID->"38e9a1c0-08bc-4452-bee4-24d251d0828c"],
+Cell[7073, 201, 236, 5, 20, "Print",ExpressionUUID->"8432583c-db42-4126-844d-ddd3747e6649"],
+Cell[7312, 208, 236, 5, 20, "Print",ExpressionUUID->"fab4661b-867d-4850-b00f-36efad442f19"],
+Cell[7551, 215, 235, 5, 20, "Print",ExpressionUUID->"c63b337d-3220-4ea2-9df9-ac3bd355fc86"]
+}, Open  ]]
+}, Open  ]],
+Cell[7813, 224, 219, 5, 35, "Text",ExpressionUUID->"6a5b5d41-8f50-43f9-b5c9-2628ddd4537f"],
+Cell[CellGroupData[{
+Cell[8057, 233, 5011, 130, 619, "Input",ExpressionUUID->"30b5f712-5418-4055-8d6f-f48b7ec3b97f"],
+Cell[CellGroupData[{
+Cell[13093, 367, 248, 6, 36, "Print",ExpressionUUID->"907cc59b-9e42-4991-b87d-c4916df39f87"],
+Cell[13344, 375, 215, 5, 20, "Print",ExpressionUUID->"4618b49e-36b5-4e14-90e0-76e703324e5b"],
+Cell[13562, 382, 217, 5, 20, "Print",ExpressionUUID->"8c2c63e7-e871-4c1a-9ba1-cb34220a6a3d"]
+}, Open  ]]
+}, Open  ]]
+}
+]
+*)
+
+(* End of internal cache information *)
+

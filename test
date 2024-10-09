@@ -1,0 +1,1123 @@
+-(((((5*I)/32)*dd*e*E^(m3^2/Msq - zero)*equ*m0sq*mqd)/(f3^2*m3^6) + 
+   (((3*I)/64)*dd*e*E^(m3^2/Msq - zero)*equ*mqd)/(f3^2*m3^4) + 
+   (((15*I)/64)*dd*e*E^(m3^2/Msq - zero)*equ*m0sq*mqu)/(f3^2*m3^6) - 
+   (((3*I)/64)*dd*e*E^(m3^2/Msq - zero)*equ*mqu)/(f3^2*m3^4) - 
+   (((43*I)/768)*dd*e*E^(m3^2/Msq - zero)*equ*m0sq*mqd)/(f3^2*m3^4*Msq) + 
+   (((13*I)/256)*dd*e*E^(m3^2/Msq - zero)*equ*m0sq*mqu)/(f3^2*m3^4*Msq) - 
+   ((I/256)*e*E^(m3^2/Msq - zero)*eqd*EulerGamma*mqd*mqu*Msq)/
+    (f3^2*m3^4*Pi^2) + ((I/256)*e*E^(m3^2/Msq - s0/Msq - zero)*eqd*EulerGamma*
+     mqd*mqu*Msq)/(f3^2*m3^4*Pi^2) + ((I/256)*e*E^(m3^2/Msq - zero)*equ*
+     EulerGamma*mqd*mqu*Msq)/(f3^2*m3^4*Pi^2) - 
+   ((I/256)*e*E^(m3^2/Msq - s0/Msq - zero)*equ*EulerGamma*mqd*mqu*Msq)/
+    (f3^2*m3^4*Pi^2) + (((5*I)/32)*dd*e*E^(m3^2/Msq - zero)*equ*m0sq*mqd*u0)/
+    (f3^2*m3^6) + (((3*I)/64)*dd*e*E^(m3^2/Msq - zero)*equ*mqd*u0)/
+    (f3^2*m3^4) - (((67*I)/384)*dd*e*E^(m3^2/Msq - zero)*equ*m0sq*mqd*u0)/
+    (f3^2*m3^4*Msq) + ((I/8)*dd*e*E^(m3^2/Msq - zero)*equ*m0sq*mqu*u0)/
+    (f3^2*m3^4*Msq) - ((I/8)*dd*e*E^(m3^2/Msq - zero)*equ*m0sq*mqd*u0^2)/
+    (f3^2*m3^4*Msq) + ((I/8)*e*E^(m3^2/Msq - zero)*eqd*EulerGamma*mqd*mqu*Msq*
+     u0^2)/(f3^2*m3^4*Pi^2) - ((I/8)*e*E^(m3^2/Msq - s0/Msq - zero)*eqd*
+     EulerGamma*mqd*mqu*Msq*u0^2)/(f3^2*m3^4*Pi^2) - 
+   ((I/8)*e*E^(m3^2/Msq - zero)*equ*EulerGamma*mqd*mqu*Msq*u0^2)/
+    (f3^2*m3^4*Pi^2) + ((I/8)*e*E^(m3^2/Msq - s0/Msq - zero)*equ*EulerGamma*
+     mqd*mqu*Msq*u0^2)/(f3^2*m3^4*Pi^2) - 
+   (I*e*E^(m3^2/Msq - zero)*eqd*EulerGamma*mqd*mqu*Msq*u0^4)/
+    (f3^2*m3^4*Pi^2) + (I*e*E^(m3^2/Msq - s0/Msq - zero)*eqd*EulerGamma*mqd*
+     mqu*Msq*u0^4)/(f3^2*m3^4*Pi^2) + (I*e*E^(m3^2/Msq - zero)*equ*EulerGamma*
+     mqd*mqu*Msq*u0^4)/(f3^2*m3^4*Pi^2) - 
+   (I*e*E^(m3^2/Msq - s0/Msq - zero)*equ*EulerGamma*mqd*mqu*Msq*u0^4)/
+    (f3^2*m3^4*Pi^2) - (((15*I)/64)*e*E^(m3^2/Msq - zero)*eqd*m0sq*mqd*uu)/
+    (f3^2*m3^6) + (((3*I)/64)*e*E^(m3^2/Msq - zero)*eqd*mqd*uu)/(f3^2*m3^4) - 
+   (((5*I)/32)*e*E^(m3^2/Msq - zero)*eqd*m0sq*mqu*uu)/(f3^2*m3^6) - 
+   (((3*I)/64)*e*E^(m3^2/Msq - zero)*eqd*mqu*uu)/(f3^2*m3^4) - 
+   (((13*I)/256)*e*E^(m3^2/Msq - zero)*eqd*m0sq*mqd*uu)/(f3^2*m3^4*Msq) + 
+   (((43*I)/768)*e*E^(m3^2/Msq - zero)*eqd*m0sq*mqu*uu)/(f3^2*m3^4*Msq) - 
+   (((5*I)/32)*e*E^(m3^2/Msq - zero)*eqd*m0sq*mqu*u0*uu)/(f3^2*m3^6) - 
+   (((3*I)/64)*e*E^(m3^2/Msq - zero)*eqd*mqu*u0*uu)/(f3^2*m3^4) - 
+   ((I/8)*e*E^(m3^2/Msq - zero)*eqd*m0sq*mqd*u0*uu)/(f3^2*m3^4*Msq) + 
+   (((67*I)/384)*e*E^(m3^2/Msq - zero)*eqd*m0sq*mqu*u0*uu)/(f3^2*m3^4*Msq) + 
+   ((I/8)*e*E^(m3^2/Msq - zero)*eqd*m0sq*mqu*u0^2*uu)/(f3^2*m3^4*Msq) - 
+   ((I/16)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*(64.*(1 - u0)^2*u0^2 - 
+      7.199999999999999*((1 - u0)*u0*(2 + 13*(1 - u0)*u0) + 
+        2*(10 - 15*(1 - u0) + 6*(1 - u0)^2)*(1 - u0)^3*Log[1 - u0] + 
+        2*u0^3*(10 - 15*u0 + 6*u0^2)*Log[u0])))/(f3^2*m3^4) + 
+   (((11*I)/48)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*u*(64.*(1 - u0)^2*u0^2 - 
+      7.199999999999999*((1 - u0)*u0*(2 + 13*(1 - u0)*u0) + 
+        2*(10 - 15*(1 - u0) + 6*(1 - u0)^2)*(1 - u0)^3*Log[1 - u0] + 
+        2*u0^3*(10 - 15*u0 + 6*u0^2)*Log[u0])))/(f3^2*m3^4) - 
+   ((I/4)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*u^2*(64.*(1 - u0)^2*u0^2 - 
+      7.199999999999999*((1 - u0)*u0*(2 + 13*(1 - u0)*u0) + 
+        2*(10 - 15*(1 - u0) + 6*(1 - u0)^2)*(1 - u0)^3*Log[1 - u0] + 
+        2*u0^3*(10 - 15*u0 + 6*u0^2)*Log[u0])))/(f3^2*m3^4) + 
+   ((I/12)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*u^3*(64.*(1 - u0)^2*u0^2 - 
+      7.199999999999999*((1 - u0)*u0*(2 + 13*(1 - u0)*u0) + 
+        2*(10 - 15*(1 - u0) + 6*(1 - u0)^2)*(1 - u0)^3*Log[1 - u0] + 
+        2*u0^3*(10 - 15*u0 + 6*u0^2)*Log[u0])))/(f3^2*m3^4) - 
+   (((17*I)/48)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*u0*
+     (64.*(1 - u0)^2*u0^2 - 7.199999999999999*
+       ((1 - u0)*u0*(2 + 13*(1 - u0)*u0) + 2*(10 - 15*(1 - u0) + 
+          6*(1 - u0)^2)*(1 - u0)^3*Log[1 - u0] + 2*u0^3*(10 - 15*u0 + 6*u0^2)*
+         Log[u0])))/(f3^2*m3^4) + (((23*I)/24)*dd*e*E^(m3^2/Msq - zero)*eqd*
+     mqu*u*u0*(64.*(1 - u0)^2*u0^2 - 7.199999999999999*
+       ((1 - u0)*u0*(2 + 13*(1 - u0)*u0) + 2*(10 - 15*(1 - u0) + 
+          6*(1 - u0)^2)*(1 - u0)^3*Log[1 - u0] + 2*u0^3*(10 - 15*u0 + 6*u0^2)*
+         Log[u0])))/(f3^2*m3^4) - (((3*I)/4)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*
+     u^2*u0*(64.*(1 - u0)^2*u0^2 - 7.199999999999999*
+       ((1 - u0)*u0*(2 + 13*(1 - u0)*u0) + 2*(10 - 15*(1 - u0) + 
+          6*(1 - u0)^2)*(1 - u0)^3*Log[1 - u0] + 2*u0^3*(10 - 15*u0 + 6*u0^2)*
+         Log[u0])))/(f3^2*m3^4) + ((I/6)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*u^3*
+     u0*(64.*(1 - u0)^2*u0^2 - 7.199999999999999*
+       ((1 - u0)*u0*(2 + 13*(1 - u0)*u0) + 2*(10 - 15*(1 - u0) + 
+          6*(1 - u0)^2)*(1 - u0)^3*Log[1 - u0] + 2*u0^3*(10 - 15*u0 + 6*u0^2)*
+         Log[u0])))/(f3^2*m3^4) - (((17*I)/24)*dd*e*E^(m3^2/Msq - zero)*eqd*
+     mqu*u0^2*(64.*(1 - u0)^2*u0^2 - 7.199999999999999*
+       ((1 - u0)*u0*(2 + 13*(1 - u0)*u0) + 2*(10 - 15*(1 - u0) + 
+          6*(1 - u0)^2)*(1 - u0)^3*Log[1 - u0] + 2*u0^3*(10 - 15*u0 + 6*u0^2)*
+         Log[u0])))/(f3^2*m3^4) + (((5*I)/4)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*
+     u*u0^2*(64.*(1 - u0)^2*u0^2 - 7.199999999999999*
+       ((1 - u0)*u0*(2 + 13*(1 - u0)*u0) + 2*(10 - 15*(1 - u0) + 
+          6*(1 - u0)^2)*(1 - u0)^3*Log[1 - u0] + 2*u0^3*(10 - 15*u0 + 6*u0^2)*
+         Log[u0])))/(f3^2*m3^4) - ((I/2)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*u^2*
+     u0^2*(64.*(1 - u0)^2*u0^2 - 7.199999999999999*
+       ((1 - u0)*u0*(2 + 13*(1 - u0)*u0) + 2*(10 - 15*(1 - u0) + 
+          6*(1 - u0)^2)*(1 - u0)^3*Log[1 - u0] + 2*u0^3*(10 - 15*u0 + 6*u0^2)*
+         Log[u0])))/(f3^2*m3^4) - (((7*I)/12)*dd*e*E^(m3^2/Msq - zero)*eqd*
+     mqu*u0^3*(64.*(1 - u0)^2*u0^2 - 7.199999999999999*
+       ((1 - u0)*u0*(2 + 13*(1 - u0)*u0) + 2*(10 - 15*(1 - u0) + 
+          6*(1 - u0)^2)*(1 - u0)^3*Log[1 - u0] + 2*u0^3*(10 - 15*u0 + 6*u0^2)*
+         Log[u0])))/(f3^2*m3^4) + ((I/2)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*u*
+     u0^3*(64.*(1 - u0)^2*u0^2 - 7.199999999999999*
+       ((1 - u0)*u0*(2 + 13*(1 - u0)*u0) + 2*(10 - 15*(1 - u0) + 
+          6*(1 - u0)^2)*(1 - u0)^3*Log[1 - u0] + 2*u0^3*(10 - 15*u0 + 6*u0^2)*
+         Log[u0])))/(f3^2*m3^4) - ((I/6)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*
+     u0^4*(64.*(1 - u0)^2*u0^2 - 7.199999999999999*
+       ((1 - u0)*u0*(2 + 13*(1 - u0)*u0) + 2*(10 - 15*(1 - u0) + 
+          6*(1 - u0)^2)*(1 - u0)^3*Log[1 - u0] + 2*u0^3*(10 - 15*u0 + 6*u0^2)*
+         Log[u0])))/(f3^2*m3^4) - ((I/48)*e*E^(m3^2/Msq - zero)*equ*mqd*u*uu*
+     (64.*(1 - u0)^2*u0^2 - 7.199999999999999*
+       ((1 - u0)*u0*(2 + 13*(1 - u0)*u0) + 2*(10 - 15*(1 - u0) + 
+          6*(1 - u0)^2)*(1 - u0)^3*Log[1 - u0] + 2*u0^3*(10 - 15*u0 + 6*u0^2)*
+         Log[u0])))/(f3^2*m3^4) + ((I/12)*e*E^(m3^2/Msq - zero)*equ*mqd*u^3*
+     uu*(64.*(1 - u0)^2*u0^2 - 7.199999999999999*
+       ((1 - u0)*u0*(2 + 13*(1 - u0)*u0) + 2*(10 - 15*(1 - u0) + 
+          6*(1 - u0)^2)*(1 - u0)^3*Log[1 - u0] + 2*u0^3*(10 - 15*u0 + 6*u0^2)*
+         Log[u0])))/(f3^2*m3^4) - ((I/48)*e*E^(m3^2/Msq - zero)*equ*mqd*u0*uu*
+     (64.*(1 - u0)^2*u0^2 - 7.199999999999999*
+       ((1 - u0)*u0*(2 + 13*(1 - u0)*u0) + 2*(10 - 15*(1 - u0) + 
+          6*(1 - u0)^2)*(1 - u0)^3*Log[1 - u0] + 2*u0^3*(10 - 15*u0 + 6*u0^2)*
+         Log[u0])))/(f3^2*m3^4) - ((I/24)*e*E^(m3^2/Msq - zero)*equ*mqd*u*u0*
+     uu*(64.*(1 - u0)^2*u0^2 - 7.199999999999999*
+       ((1 - u0)*u0*(2 + 13*(1 - u0)*u0) + 2*(10 - 15*(1 - u0) + 
+          6*(1 - u0)^2)*(1 - u0)^3*Log[1 - u0] + 2*u0^3*(10 - 15*u0 + 6*u0^2)*
+         Log[u0])))/(f3^2*m3^4) + ((I/4)*e*E^(m3^2/Msq - zero)*equ*mqd*u^2*u0*
+     uu*(64.*(1 - u0)^2*u0^2 - 7.199999999999999*
+       ((1 - u0)*u0*(2 + 13*(1 - u0)*u0) + 2*(10 - 15*(1 - u0) + 
+          6*(1 - u0)^2)*(1 - u0)^3*Log[1 - u0] + 2*u0^3*(10 - 15*u0 + 6*u0^2)*
+         Log[u0])))/(f3^2*m3^4) + ((I/6)*e*E^(m3^2/Msq - zero)*equ*mqd*u^3*u0*
+     uu*(64.*(1 - u0)^2*u0^2 - 7.199999999999999*
+       ((1 - u0)*u0*(2 + 13*(1 - u0)*u0) + 2*(10 - 15*(1 - u0) + 
+          6*(1 - u0)^2)*(1 - u0)^3*Log[1 - u0] + 2*u0^3*(10 - 15*u0 + 6*u0^2)*
+         Log[u0])))/(f3^2*m3^4) - ((I/24)*e*E^(m3^2/Msq - zero)*equ*mqd*u0^2*
+     uu*(64.*(1 - u0)^2*u0^2 - 7.199999999999999*
+       ((1 - u0)*u0*(2 + 13*(1 - u0)*u0) + 2*(10 - 15*(1 - u0) + 
+          6*(1 - u0)^2)*(1 - u0)^3*Log[1 - u0] + 2*u0^3*(10 - 15*u0 + 6*u0^2)*
+         Log[u0])))/(f3^2*m3^4) + ((I/4)*e*E^(m3^2/Msq - zero)*equ*mqd*u*u0^2*
+     uu*(64.*(1 - u0)^2*u0^2 - 7.199999999999999*
+       ((1 - u0)*u0*(2 + 13*(1 - u0)*u0) + 2*(10 - 15*(1 - u0) + 
+          6*(1 - u0)^2)*(1 - u0)^3*Log[1 - u0] + 2*u0^3*(10 - 15*u0 + 6*u0^2)*
+         Log[u0])))/(f3^2*m3^4) + ((I/2)*e*E^(m3^2/Msq - zero)*equ*mqd*u^2*
+     u0^2*uu*(64.*(1 - u0)^2*u0^2 - 7.199999999999999*
+       ((1 - u0)*u0*(2 + 13*(1 - u0)*u0) + 2*(10 - 15*(1 - u0) + 
+          6*(1 - u0)^2)*(1 - u0)^3*Log[1 - u0] + 2*u0^3*(10 - 15*u0 + 6*u0^2)*
+         Log[u0])))/(f3^2*m3^4) + ((I/12)*e*E^(m3^2/Msq - zero)*equ*mqd*u0^3*
+     uu*(64.*(1 - u0)^2*u0^2 - 7.199999999999999*
+       ((1 - u0)*u0*(2 + 13*(1 - u0)*u0) + 2*(10 - 15*(1 - u0) + 
+          6*(1 - u0)^2)*(1 - u0)^3*Log[1 - u0] + 2*u0^3*(10 - 15*u0 + 6*u0^2)*
+         Log[u0])))/(f3^2*m3^4) + ((I/2)*e*E^(m3^2/Msq - zero)*equ*mqd*u*u0^3*
+     uu*(64.*(1 - u0)^2*u0^2 - 7.199999999999999*
+       ((1 - u0)*u0*(2 + 13*(1 - u0)*u0) + 2*(10 - 15*(1 - u0) + 
+          6*(1 - u0)^2)*(1 - u0)^3*Log[1 - u0] + 2*u0^3*(10 - 15*u0 + 6*u0^2)*
+         Log[u0])))/(f3^2*m3^4) + ((I/6)*e*E^(m3^2/Msq - zero)*equ*mqd*u0^4*
+     uu*(64.*(1 - u0)^2*u0^2 - 7.199999999999999*
+       ((1 - u0)*u0*(2 + 13*(1 - u0)*u0) + 2*(10 - 15*(1 - u0) + 
+          6*(1 - u0)^2)*(1 - u0)^3*Log[1 - u0] + 2*u0^3*(10 - 15*u0 + 6*u0^2)*
+         Log[u0])))/(f3^2*m3^4) - (((25*I)/384)*dd*e*E^(m3^2/Msq - zero)*equ*
+     m0sq*mqd*HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^8) + 
+   ((I/256)*e*E^(m3^2/Msq - zero)*eqd*EulerGamma*mqd*mqu*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4*Pi^2) - 
+   ((I/256)*e*E^(m3^2/Msq - zero)*equ*EulerGamma*mqd*mqu*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4*Pi^2) + 
+   (((3*I)/128)*e*E^(m3^2/Msq - zero)*eqd*f3gamma*
+     (3*(-1 + 3*(-1 + 2*(1 - u0))^2) + 3.1640625*
+       (3 - 30*(-1 + 2*(1 - u0))^2 + 35*(-1 + 2*(1 - u0))^4))*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) - 
+   ((I/8)*e*E^(m3^2/Msq - zero)*eqd*f3gamma*u*
+     (3*(-1 + 3*(-1 + 2*(1 - u0))^2) + 3.1640625*
+       (3 - 30*(-1 + 2*(1 - u0))^2 + 35*(-1 + 2*(1 - u0))^4))*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) + 
+   (((11*I)/48)*e*E^(m3^2/Msq - zero)*eqd*f3gamma*u^2*
+     (3*(-1 + 3*(-1 + 2*(1 - u0))^2) + 3.1640625*
+       (3 - 30*(-1 + 2*(1 - u0))^2 + 35*(-1 + 2*(1 - u0))^4))*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) - 
+   ((I/6)*e*E^(m3^2/Msq - zero)*eqd*f3gamma*u^3*
+     (3*(-1 + 3*(-1 + 2*(1 - u0))^2) + 3.1640625*
+       (3 - 30*(-1 + 2*(1 - u0))^2 + 35*(-1 + 2*(1 - u0))^4))*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) + 
+   ((I/24)*e*E^(m3^2/Msq - zero)*eqd*f3gamma*u^4*
+     (3*(-1 + 3*(-1 + 2*(1 - u0))^2) + 3.1640625*
+       (3 - 30*(-1 + 2*(1 - u0))^2 + 35*(-1 + 2*(1 - u0))^4))*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) + 
+   ((0. + 0.5517578125*I)*e*E^(m3^2/Msq - zero)*eqd*f3gamma*
+     (1 - (-1 + 2*(1 - u0))^2)*(-1 + 5*(-1 + 2*(1 - u0))^2)*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) - 
+   ((0. + 2.0231119791666665*I)*e*E^(m3^2/Msq - zero)*eqd*f3gamma*u*
+     (1 - (-1 + 2*(1 - u0))^2)*(-1 + 5*(-1 + 2*(1 - u0))^2)*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) + 
+   ((0. + 2.20703125*I)*e*E^(m3^2/Msq - zero)*eqd*f3gamma*u^2*
+     (1 - (-1 + 2*(1 - u0))^2)*(-1 + 5*(-1 + 2*(1 - u0))^2)*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) - 
+   ((0. + 0.7356770833333333*I)*e*E^(m3^2/Msq - zero)*eqd*f3gamma*u^3*
+     (1 - (-1 + 2*(1 - u0))^2)*(-1 + 5*(-1 + 2*(1 - u0))^2)*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) - 
+   ((I/48)*e*E^(m3^2/Msq - zero)*eqd*mqd*mqu*u0*HoldForm[NIntegrate][
+      E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4*Pi^2) + 
+   ((I/48)*e*E^(m3^2/Msq - zero)*equ*mqd*mqu*u0*HoldForm[NIntegrate][
+      E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4*Pi^2) + 
+   (((11*I)/64)*e*E^(m3^2/Msq - zero)*eqd*f3gamma*
+     (3*(-1 + 3*(-1 + 2*(1 - u0))^2) + 3.1640625*
+       (3 - 30*(-1 + 2*(1 - u0))^2 + 35*(-1 + 2*(1 - u0))^4))*u0*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) - 
+   (((17*I)/24)*e*E^(m3^2/Msq - zero)*eqd*f3gamma*u*
+     (3*(-1 + 3*(-1 + 2*(1 - u0))^2) + 3.1640625*
+       (3 - 30*(-1 + 2*(1 - u0))^2 + 35*(-1 + 2*(1 - u0))^4))*u0*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) + 
+   (((23*I)/24)*e*E^(m3^2/Msq - zero)*eqd*f3gamma*u^2*
+     (3*(-1 + 3*(-1 + 2*(1 - u0))^2) + 3.1640625*
+       (3 - 30*(-1 + 2*(1 - u0))^2 + 35*(-1 + 2*(1 - u0))^4))*u0*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) - 
+   ((I/2)*e*E^(m3^2/Msq - zero)*eqd*f3gamma*u^3*
+     (3*(-1 + 3*(-1 + 2*(1 - u0))^2) + 3.1640625*
+       (3 - 30*(-1 + 2*(1 - u0))^2 + 35*(-1 + 2*(1 - u0))^4))*u0*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) + 
+   ((I/12)*e*E^(m3^2/Msq - zero)*eqd*f3gamma*u^4*
+     (3*(-1 + 3*(-1 + 2*(1 - u0))^2) + 3.1640625*
+       (3 - 30*(-1 + 2*(1 - u0))^2 + 35*(-1 + 2*(1 - u0))^4))*u0*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) + 
+   ((0. + 3.126627604166667*I)*e*E^(m3^2/Msq - zero)*eqd*f3gamma*
+     (1 - (-1 + 2*(1 - u0))^2)*(-1 + 5*(-1 + 2*(1 - u0))^2)*u0*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) - 
+   ((0. + 8.460286458333334*I)*e*E^(m3^2/Msq - zero)*eqd*f3gamma*u*
+     (1 - (-1 + 2*(1 - u0))^2)*(-1 + 5*(-1 + 2*(1 - u0))^2)*u0*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) + 
+   ((0. + 6.62109375*I)*e*E^(m3^2/Msq - zero)*eqd*f3gamma*u^2*
+     (1 - (-1 + 2*(1 - u0))^2)*(-1 + 5*(-1 + 2*(1 - u0))^2)*u0*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) - 
+   ((0. + 1.4713541666666665*I)*e*E^(m3^2/Msq - zero)*eqd*f3gamma*u^3*
+     (1 - (-1 + 2*(1 - u0))^2)*(-1 + 5*(-1 + 2*(1 - u0))^2)*u0*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) - 
+   (((5*I)/16)*e*E^(m3^2/Msq - zero)*eqd*mqd*mqu*u0^2*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4*Pi^2) + 
+   (((5*I)/16)*e*E^(m3^2/Msq - zero)*equ*mqd*mqu*u0^2*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4*Pi^2) - 
+   ((I/8)*e*E^(m3^2/Msq - zero)*eqd*EulerGamma*mqd*mqu*u0^2*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4*Pi^2) + 
+   ((I/8)*e*E^(m3^2/Msq - zero)*equ*EulerGamma*mqd*mqu*u0^2*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4*Pi^2) + 
+   (((23*I)/48)*e*E^(m3^2/Msq - zero)*eqd*f3gamma*
+     (3*(-1 + 3*(-1 + 2*(1 - u0))^2) + 3.1640625*
+       (3 - 30*(-1 + 2*(1 - u0))^2 + 35*(-1 + 2*(1 - u0))^4))*u0^2*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) - 
+   (((17*I)/12)*e*E^(m3^2/Msq - zero)*eqd*f3gamma*u*
+     (3*(-1 + 3*(-1 + 2*(1 - u0))^2) + 3.1640625*
+       (3 - 30*(-1 + 2*(1 - u0))^2 + 35*(-1 + 2*(1 - u0))^4))*u0^2*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) + 
+   (((5*I)/4)*e*E^(m3^2/Msq - zero)*eqd*f3gamma*u^2*
+     (3*(-1 + 3*(-1 + 2*(1 - u0))^2) + 3.1640625*
+       (3 - 30*(-1 + 2*(1 - u0))^2 + 35*(-1 + 2*(1 - u0))^4))*u0^2*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) - 
+   ((I/3)*e*E^(m3^2/Msq - zero)*eqd*f3gamma*u^3*
+     (3*(-1 + 3*(-1 + 2*(1 - u0))^2) + 3.1640625*
+       (3 - 30*(-1 + 2*(1 - u0))^2 + 35*(-1 + 2*(1 - u0))^4))*u0^2*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) + 
+   ((0. + 6.253255208333334*I)*e*E^(m3^2/Msq - zero)*eqd*f3gamma*
+     (1 - (-1 + 2*(1 - u0))^2)*(-1 + 5*(-1 + 2*(1 - u0))^2)*u0^2*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) - 
+   ((0. + 11.03515625*I)*e*E^(m3^2/Msq - zero)*eqd*f3gamma*u*
+     (1 - (-1 + 2*(1 - u0))^2)*(-1 + 5*(-1 + 2*(1 - u0))^2)*u0^2*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) + 
+   ((0. + 4.4140625*I)*e*E^(m3^2/Msq - zero)*eqd*f3gamma*u^2*
+     (1 - (-1 + 2*(1 - u0))^2)*(-1 + 5*(-1 + 2*(1 - u0))^2)*u0^2*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) + 
+   ((I/2)*e*E^(m3^2/Msq - zero)*eqd*mqd*mqu*u0^3*HoldForm[NIntegrate][
+      E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4*Pi^2) - 
+   ((I/2)*e*E^(m3^2/Msq - zero)*equ*mqd*mqu*u0^3*HoldForm[NIntegrate][
+      E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4*Pi^2) + 
+   (((5*I)/8)*e*E^(m3^2/Msq - zero)*eqd*f3gamma*
+     (3*(-1 + 3*(-1 + 2*(1 - u0))^2) + 3.1640625*
+       (3 - 30*(-1 + 2*(1 - u0))^2 + 35*(-1 + 2*(1 - u0))^4))*u0^3*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) - 
+   (((7*I)/6)*e*E^(m3^2/Msq - zero)*eqd*f3gamma*u*
+     (3*(-1 + 3*(-1 + 2*(1 - u0))^2) + 3.1640625*
+       (3 - 30*(-1 + 2*(1 - u0))^2 + 35*(-1 + 2*(1 - u0))^4))*u0^3*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) + 
+   ((I/2)*e*E^(m3^2/Msq - zero)*eqd*f3gamma*u^2*
+     (3*(-1 + 3*(-1 + 2*(1 - u0))^2) + 3.1640625*
+       (3 - 30*(-1 + 2*(1 - u0))^2 + 35*(-1 + 2*(1 - u0))^4))*u0^3*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) + 
+   ((0. + 5.149739583333334*I)*e*E^(m3^2/Msq - zero)*eqd*f3gamma*
+     (1 - (-1 + 2*(1 - u0))^2)*(-1 + 5*(-1 + 2*(1 - u0))^2)*u0^3*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) - 
+   ((0. + 4.4140625*I)*e*E^(m3^2/Msq - zero)*eqd*f3gamma*u*
+     (1 - (-1 + 2*(1 - u0))^2)*(-1 + 5*(-1 + 2*(1 - u0))^2)*u0^3*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) + 
+   (((25*I)/12)*e*E^(m3^2/Msq - zero)*eqd*mqd*mqu*u0^4*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4*Pi^2) - 
+   (((25*I)/12)*e*E^(m3^2/Msq - zero)*equ*mqd*mqu*u0^4*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4*Pi^2) + 
+   (I*e*E^(m3^2/Msq - zero)*eqd*EulerGamma*mqd*mqu*u0^4*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4*Pi^2) - 
+   (I*e*E^(m3^2/Msq - zero)*equ*EulerGamma*mqd*mqu*u0^4*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4*Pi^2) + 
+   (((3*I)/8)*e*E^(m3^2/Msq - zero)*eqd*f3gamma*
+     (3*(-1 + 3*(-1 + 2*(1 - u0))^2) + 3.1640625*
+       (3 - 30*(-1 + 2*(1 - u0))^2 + 35*(-1 + 2*(1 - u0))^4))*u0^4*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) - 
+   ((I/3)*e*E^(m3^2/Msq - zero)*eqd*f3gamma*u*
+     (3*(-1 + 3*(-1 + 2*(1 - u0))^2) + 3.1640625*
+       (3 - 30*(-1 + 2*(1 - u0))^2 + 35*(-1 + 2*(1 - u0))^4))*u0^4*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) + 
+   ((0. + 1.4713541666666665*I)*e*E^(m3^2/Msq - zero)*eqd*f3gamma*
+     (1 - (-1 + 2*(1 - u0))^2)*(-1 + 5*(-1 + 2*(1 - u0))^2)*u0^4*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) + 
+   ((I/12)*e*E^(m3^2/Msq - zero)*eqd*f3gamma*
+     (3*(-1 + 3*(-1 + 2*(1 - u0))^2) + 3.1640625*
+       (3 - 30*(-1 + 2*(1 - u0))^2 + 35*(-1 + 2*(1 - u0))^4))*u0^5*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) + 
+   ((0. + 0.18391927083333331*I)*e*E^(m3^2/Msq - zero)*equ*f3gamma*u*
+     (1 - (-1 + 2*u0)^2)*(-1 + 5*(-1 + 2*u0)^2)*HoldForm[NIntegrate][
+      E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) - 
+   ((0. + 0.7356770833333333*I)*e*E^(m3^2/Msq - zero)*equ*f3gamma*u^3*
+     (1 - (-1 + 2*u0)^2)*(-1 + 5*(-1 + 2*u0)^2)*HoldForm[NIntegrate][
+      E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) + 
+   ((0. + 0.18391927083333331*I)*e*E^(m3^2/Msq - zero)*equ*f3gamma*u0*
+     (1 - (-1 + 2*u0)^2)*(-1 + 5*(-1 + 2*u0)^2)*HoldForm[NIntegrate][
+      E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) + 
+   ((0. + 0.36783854166666663*I)*e*E^(m3^2/Msq - zero)*equ*f3gamma*u*u0*
+     (1 - (-1 + 2*u0)^2)*(-1 + 5*(-1 + 2*u0)^2)*HoldForm[NIntegrate][
+      E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) - 
+   ((0. + 2.20703125*I)*e*E^(m3^2/Msq - zero)*equ*f3gamma*u^2*u0*
+     (1 - (-1 + 2*u0)^2)*(-1 + 5*(-1 + 2*u0)^2)*HoldForm[NIntegrate][
+      E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) - 
+   ((0. + 1.4713541666666665*I)*e*E^(m3^2/Msq - zero)*equ*f3gamma*u^3*u0*
+     (1 - (-1 + 2*u0)^2)*(-1 + 5*(-1 + 2*u0)^2)*HoldForm[NIntegrate][
+      E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) + 
+   ((0. + 0.36783854166666663*I)*e*E^(m3^2/Msq - zero)*equ*f3gamma*u0^2*
+     (1 - (-1 + 2*u0)^2)*(-1 + 5*(-1 + 2*u0)^2)*HoldForm[NIntegrate][
+      E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) - 
+   ((0. + 2.20703125*I)*e*E^(m3^2/Msq - zero)*equ*f3gamma*u*u0^2*
+     (1 - (-1 + 2*u0)^2)*(-1 + 5*(-1 + 2*u0)^2)*HoldForm[NIntegrate][
+      E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) - 
+   ((0. + 4.4140625*I)*e*E^(m3^2/Msq - zero)*equ*f3gamma*u^2*u0^2*
+     (1 - (-1 + 2*u0)^2)*(-1 + 5*(-1 + 2*u0)^2)*HoldForm[NIntegrate][
+      E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) - 
+   ((0. + 0.7356770833333333*I)*e*E^(m3^2/Msq - zero)*equ*f3gamma*u0^3*
+     (1 - (-1 + 2*u0)^2)*(-1 + 5*(-1 + 2*u0)^2)*HoldForm[NIntegrate][
+      E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) - 
+   ((0. + 4.4140625*I)*e*E^(m3^2/Msq - zero)*equ*f3gamma*u*u0^3*
+     (1 - (-1 + 2*u0)^2)*(-1 + 5*(-1 + 2*u0)^2)*HoldForm[NIntegrate][
+      E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) - 
+   ((0. + 1.4713541666666665*I)*e*E^(m3^2/Msq - zero)*equ*f3gamma*u0^4*
+     (1 - (-1 + 2*u0)^2)*(-1 + 5*(-1 + 2*u0)^2)*HoldForm[NIntegrate][
+      E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) - 
+   ((I/384)*e*E^(m3^2/Msq - zero)*equ*f3gamma*(3*(-1 + 3*(-1 + 2*u0)^2) + 
+      3.1640625*(3 - 30*(-1 + 2*u0)^2 + 35*(-1 + 2*u0)^4))*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) + 
+   ((I/48)*e*E^(m3^2/Msq - zero)*equ*f3gamma*u^2*(3*(-1 + 3*(-1 + 2*u0)^2) + 
+      3.1640625*(3 - 30*(-1 + 2*u0)^2 + 35*(-1 + 2*u0)^4))*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) - 
+   ((I/24)*e*E^(m3^2/Msq - zero)*equ*f3gamma*u^4*(3*(-1 + 3*(-1 + 2*u0)^2) + 
+      3.1640625*(3 - 30*(-1 + 2*u0)^2 + 35*(-1 + 2*u0)^4))*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) - 
+   ((I/192)*e*E^(m3^2/Msq - zero)*equ*f3gamma*u0*(3*(-1 + 3*(-1 + 2*u0)^2) + 
+      3.1640625*(3 - 30*(-1 + 2*u0)^2 + 35*(-1 + 2*u0)^4))*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) + 
+   ((I/24)*e*E^(m3^2/Msq - zero)*equ*f3gamma*u*u0*(3*(-1 + 3*(-1 + 2*u0)^2) + 
+      3.1640625*(3 - 30*(-1 + 2*u0)^2 + 35*(-1 + 2*u0)^4))*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) + 
+   ((I/24)*e*E^(m3^2/Msq - zero)*equ*f3gamma*u^2*u0*
+     (3*(-1 + 3*(-1 + 2*u0)^2) + 3.1640625*(3 - 30*(-1 + 2*u0)^2 + 
+        35*(-1 + 2*u0)^4))*HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/
+    (f3^2*m3^4) - ((I/6)*e*E^(m3^2/Msq - zero)*equ*f3gamma*u^3*u0*
+     (3*(-1 + 3*(-1 + 2*u0)^2) + 3.1640625*(3 - 30*(-1 + 2*u0)^2 + 
+        35*(-1 + 2*u0)^4))*HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/
+    (f3^2*m3^4) - ((I/12)*e*E^(m3^2/Msq - zero)*equ*f3gamma*u^4*u0*
+     (3*(-1 + 3*(-1 + 2*u0)^2) + 3.1640625*(3 - 30*(-1 + 2*u0)^2 + 
+        35*(-1 + 2*u0)^4))*HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/
+    (f3^2*m3^4) + ((I/48)*e*E^(m3^2/Msq - zero)*equ*f3gamma*u0^2*
+     (3*(-1 + 3*(-1 + 2*u0)^2) + 3.1640625*(3 - 30*(-1 + 2*u0)^2 + 
+        35*(-1 + 2*u0)^4))*HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/
+    (f3^2*m3^4) + ((I/12)*e*E^(m3^2/Msq - zero)*equ*f3gamma*u*u0^2*
+     (3*(-1 + 3*(-1 + 2*u0)^2) + 3.1640625*(3 - 30*(-1 + 2*u0)^2 + 
+        35*(-1 + 2*u0)^4))*HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/
+    (f3^2*m3^4) - ((I/4)*e*E^(m3^2/Msq - zero)*equ*f3gamma*u^2*u0^2*
+     (3*(-1 + 3*(-1 + 2*u0)^2) + 3.1640625*(3 - 30*(-1 + 2*u0)^2 + 
+        35*(-1 + 2*u0)^4))*HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/
+    (f3^2*m3^4) - ((I/3)*e*E^(m3^2/Msq - zero)*equ*f3gamma*u^3*u0^2*
+     (3*(-1 + 3*(-1 + 2*u0)^2) + 3.1640625*(3 - 30*(-1 + 2*u0)^2 + 
+        35*(-1 + 2*u0)^4))*HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/
+    (f3^2*m3^4) + ((I/24)*e*E^(m3^2/Msq - zero)*equ*f3gamma*u0^3*
+     (3*(-1 + 3*(-1 + 2*u0)^2) + 3.1640625*(3 - 30*(-1 + 2*u0)^2 + 
+        35*(-1 + 2*u0)^4))*HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/
+    (f3^2*m3^4) - ((I/6)*e*E^(m3^2/Msq - zero)*equ*f3gamma*u*u0^3*
+     (3*(-1 + 3*(-1 + 2*u0)^2) + 3.1640625*(3 - 30*(-1 + 2*u0)^2 + 
+        35*(-1 + 2*u0)^4))*HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/
+    (f3^2*m3^4) - ((I/2)*e*E^(m3^2/Msq - zero)*equ*f3gamma*u^2*u0^3*
+     (3*(-1 + 3*(-1 + 2*u0)^2) + 3.1640625*(3 - 30*(-1 + 2*u0)^2 + 
+        35*(-1 + 2*u0)^4))*HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/
+    (f3^2*m3^4) - ((I/24)*e*E^(m3^2/Msq - zero)*equ*f3gamma*u0^4*
+     (3*(-1 + 3*(-1 + 2*u0)^2) + 3.1640625*(3 - 30*(-1 + 2*u0)^2 + 
+        35*(-1 + 2*u0)^4))*HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/
+    (f3^2*m3^4) - ((I/3)*e*E^(m3^2/Msq - zero)*equ*f3gamma*u*u0^4*
+     (3*(-1 + 3*(-1 + 2*u0)^2) + 3.1640625*(3 - 30*(-1 + 2*u0)^2 + 
+        35*(-1 + 2*u0)^4))*HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/
+    (f3^2*m3^4) - ((I/12)*e*E^(m3^2/Msq - zero)*equ*f3gamma*u0^5*
+     (3*(-1 + 3*(-1 + 2*u0)^2) + 3.1640625*(3 - 30*(-1 + 2*u0)^2 + 
+        35*(-1 + 2*u0)^4))*HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/
+    (f3^2*m3^4) + (((25*I)/384)*e*E^(m3^2/Msq - zero)*eqd*m0sq*mqu*uu*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^8) + 
+   (((9*I)/32)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*(1 - u0)*u0*xi*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) - 
+   (((3*I)/2)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*u*(1 - u0)*u0*xi*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) + 
+   (((11*I)/4)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*u^2*(1 - u0)*u0*xi*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) - 
+   ((2*I)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*u^3*(1 - u0)*u0*xi*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) + 
+   ((I/2)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*u^4*(1 - u0)*u0*xi*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) + 
+   (((3*I)/2)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*(1 - u0)*u0^2*xi*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) - 
+   (((11*I)/2)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*u*(1 - u0)*u0^2*xi*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) + 
+   ((6*I)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*u^2*(1 - u0)*u0^2*xi*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) - 
+   ((2*I)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*u^3*(1 - u0)*u0^2*xi*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) + 
+   (((11*I)/4)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*(1 - u0)*u0^3*xi*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) - 
+   ((6*I)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*u*(1 - u0)*u0^3*xi*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) + 
+   ((3*I)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*u^2*(1 - u0)*u0^3*xi*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) + 
+   ((2*I)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*(1 - u0)*u0^4*xi*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) - 
+   ((2*I)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*u*(1 - u0)*u0^4*xi*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) + 
+   ((I/2)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*(1 - u0)*u0^5*xi*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) - 
+   ((I/32)*e*E^(m3^2/Msq - zero)*equ*mqd*(1 - u0)*u0*uu*xi*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) + 
+   ((I/4)*e*E^(m3^2/Msq - zero)*equ*mqd*u^2*(1 - u0)*u0*uu*xi*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) - 
+   ((I/2)*e*E^(m3^2/Msq - zero)*equ*mqd*u^4*(1 - u0)*u0*uu*xi*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) + 
+   ((I/2)*e*E^(m3^2/Msq - zero)*equ*mqd*u*(1 - u0)*u0^2*uu*xi*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) - 
+   ((2*I)*e*E^(m3^2/Msq - zero)*equ*mqd*u^3*(1 - u0)*u0^2*uu*xi*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) + 
+   ((I/4)*e*E^(m3^2/Msq - zero)*equ*mqd*(1 - u0)*u0^3*uu*xi*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) - 
+   ((3*I)*e*E^(m3^2/Msq - zero)*equ*mqd*u^2*(1 - u0)*u0^3*uu*xi*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) - 
+   ((2*I)*e*E^(m3^2/Msq - zero)*equ*mqd*u*(1 - u0)*u0^4*uu*xi*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) - 
+   ((I/2)*e*E^(m3^2/Msq - zero)*equ*mqd*(1 - u0)*u0^5*uu*xi*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^4) - 
+   (((5*I)/192)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*(64.*(1 - u0)^2*u0^2 - 
+      7.199999999999999*((1 - u0)*u0*(2 + 13*(1 - u0)*u0) + 
+        2*(10 - 15*(1 - u0) + 6*(1 - u0)^2)*(1 - u0)^3*Log[1 - u0] + 
+        2*u0^3*(10 - 15*u0 + 6*u0^2)*Log[u0]))*HoldForm[NIntegrate][
+      E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^6) + 
+   (((5*I)/48)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*u*(64.*(1 - u0)^2*u0^2 - 
+      7.199999999999999*((1 - u0)*u0*(2 + 13*(1 - u0)*u0) + 
+        2*(10 - 15*(1 - u0) + 6*(1 - u0)^2)*(1 - u0)^3*Log[1 - u0] + 
+        2*u0^3*(10 - 15*u0 + 6*u0^2)*Log[u0]))*HoldForm[NIntegrate][
+      E^(-(s/Msq)), {s, 0, s0}])/(f3^2*m3^6) - 
+   (((5*I)/48)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*u^2*
+     (64.*(1 - u0)^2*u0^2 - 7.199999999999999*
+       ((1 - u0)*u0*(2 + 13*(1 - u0)*u0) + 2*(10 - 15*(1 - u0) + 
+          6*(1 - u0)^2)*(1 - u0)^3*Log[1 - u0] + 2*u0^3*(10 - 15*u0 + 6*u0^2)*
+         Log[u0]))*HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/
+    (f3^2*m3^6) - (((5*I)/48)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*u0*
+     (64.*(1 - u0)^2*u0^2 - 7.199999999999999*
+       ((1 - u0)*u0*(2 + 13*(1 - u0)*u0) + 2*(10 - 15*(1 - u0) + 
+          6*(1 - u0)^2)*(1 - u0)^3*Log[1 - u0] + 2*u0^3*(10 - 15*u0 + 6*u0^2)*
+         Log[u0]))*HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/
+    (f3^2*m3^6) + (((5*I)/24)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*u*u0*
+     (64.*(1 - u0)^2*u0^2 - 7.199999999999999*
+       ((1 - u0)*u0*(2 + 13*(1 - u0)*u0) + 2*(10 - 15*(1 - u0) + 
+          6*(1 - u0)^2)*(1 - u0)^3*Log[1 - u0] + 2*u0^3*(10 - 15*u0 + 6*u0^2)*
+         Log[u0]))*HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/
+    (f3^2*m3^6) - (((5*I)/48)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*u0^2*
+     (64.*(1 - u0)^2*u0^2 - 7.199999999999999*
+       ((1 - u0)*u0*(2 + 13*(1 - u0)*u0) + 2*(10 - 15*(1 - u0) + 
+          6*(1 - u0)^2)*(1 - u0)^3*Log[1 - u0] + 2*u0^3*(10 - 15*u0 + 6*u0^2)*
+         Log[u0]))*HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/
+    (f3^2*m3^6) + (((5*I)/192)*e*E^(m3^2/Msq - zero)*equ*mqd*uu*
+     (64.*(1 - u0)^2*u0^2 - 7.199999999999999*
+       ((1 - u0)*u0*(2 + 13*(1 - u0)*u0) + 2*(10 - 15*(1 - u0) + 
+          6*(1 - u0)^2)*(1 - u0)^3*Log[1 - u0] + 2*u0^3*(10 - 15*u0 + 6*u0^2)*
+         Log[u0]))*HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/
+    (f3^2*m3^6) - (((5*I)/48)*e*E^(m3^2/Msq - zero)*equ*mqd*u*uu*
+     (64.*(1 - u0)^2*u0^2 - 7.199999999999999*
+       ((1 - u0)*u0*(2 + 13*(1 - u0)*u0) + 2*(10 - 15*(1 - u0) + 
+          6*(1 - u0)^2)*(1 - u0)^3*Log[1 - u0] + 2*u0^3*(10 - 15*u0 + 6*u0^2)*
+         Log[u0]))*HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/
+    (f3^2*m3^6) + (((5*I)/48)*e*E^(m3^2/Msq - zero)*equ*mqd*u^2*uu*
+     (64.*(1 - u0)^2*u0^2 - 7.199999999999999*
+       ((1 - u0)*u0*(2 + 13*(1 - u0)*u0) + 2*(10 - 15*(1 - u0) + 
+          6*(1 - u0)^2)*(1 - u0)^3*Log[1 - u0] + 2*u0^3*(10 - 15*u0 + 6*u0^2)*
+         Log[u0]))*HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/
+    (f3^2*m3^6) - (((5*I)/48)*e*E^(m3^2/Msq - zero)*equ*mqd*u0*uu*
+     (64.*(1 - u0)^2*u0^2 - 7.199999999999999*
+       ((1 - u0)*u0*(2 + 13*(1 - u0)*u0) + 2*(10 - 15*(1 - u0) + 
+          6*(1 - u0)^2)*(1 - u0)^3*Log[1 - u0] + 2*u0^3*(10 - 15*u0 + 6*u0^2)*
+         Log[u0]))*HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/
+    (f3^2*m3^6) + (((5*I)/24)*e*E^(m3^2/Msq - zero)*equ*mqd*u*u0*uu*
+     (64.*(1 - u0)^2*u0^2 - 7.199999999999999*
+       ((1 - u0)*u0*(2 + 13*(1 - u0)*u0) + 2*(10 - 15*(1 - u0) + 
+          6*(1 - u0)^2)*(1 - u0)^3*Log[1 - u0] + 2*u0^3*(10 - 15*u0 + 6*u0^2)*
+         Log[u0]))*HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/
+    (f3^2*m3^6) + (((5*I)/48)*e*E^(m3^2/Msq - zero)*equ*mqd*u0^2*uu*
+     (64.*(1 - u0)^2*u0^2 - 7.199999999999999*
+       ((1 - u0)*u0*(2 + 13*(1 - u0)*u0) + 2*(10 - 15*(1 - u0) + 
+          6*(1 - u0)^2)*(1 - u0)^3*Log[1 - u0] + 2*u0^3*(10 - 15*u0 + 6*u0^2)*
+         Log[u0]))*HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}])/
+    (f3^2*m3^6) + (((11*I)/2240)*e*E^(m3^2/Msq - zero)*eqd*
+     HoldForm[NIntegrate][s/E^(s/Msq), {s, 0, s0}])/(f3^2*m3^4*Pi^2) - 
+   (((11*I)/2240)*e*E^(m3^2/Msq - zero)*equ*HoldForm[NIntegrate][s/E^(s/Msq), 
+      {s, 0, s0}])/(f3^2*m3^4*Pi^2) + (((15*I)/128)*e*E^(m3^2/Msq - zero)*eqd*
+     mqd*mqu*HoldForm[NIntegrate][s/E^(s/Msq), {s, 0, s0}])/
+    (f3^2*m3^6*Pi^2) - (((15*I)/128)*e*E^(m3^2/Msq - zero)*equ*mqd*mqu*
+     HoldForm[NIntegrate][s/E^(s/Msq), {s, 0, s0}])/(f3^2*m3^6*Pi^2) + 
+   (((139*I)/8960)*e*E^(m3^2/Msq - zero)*eqd*u0*HoldForm[NIntegrate][
+      s/E^(s/Msq), {s, 0, s0}])/(f3^2*m3^4*Pi^2) - 
+   (((139*I)/8960)*e*E^(m3^2/Msq - zero)*equ*u0*HoldForm[NIntegrate][
+      s/E^(s/Msq), {s, 0, s0}])/(f3^2*m3^4*Pi^2) - 
+   (((5*I)/16)*e*E^(m3^2/Msq - zero)*eqd*mqd*mqu*u0*
+     HoldForm[NIntegrate][s/E^(s/Msq), {s, 0, s0}])/(f3^2*m3^6*Pi^2) + 
+   (((5*I)/16)*e*E^(m3^2/Msq - zero)*equ*mqd*mqu*u0*
+     HoldForm[NIntegrate][s/E^(s/Msq), {s, 0, s0}])/(f3^2*m3^6*Pi^2) - 
+   (((253*I)/2240)*e*E^(m3^2/Msq - zero)*eqd*u0^2*HoldForm[NIntegrate][
+      s/E^(s/Msq), {s, 0, s0}])/(f3^2*m3^4*Pi^2) + 
+   (((253*I)/2240)*e*E^(m3^2/Msq - zero)*equ*u0^2*HoldForm[NIntegrate][
+      s/E^(s/Msq), {s, 0, s0}])/(f3^2*m3^4*Pi^2) + 
+   (((5*I)/16)*e*E^(m3^2/Msq - zero)*eqd*mqd*mqu*u0^2*
+     HoldForm[NIntegrate][s/E^(s/Msq), {s, 0, s0}])/(f3^2*m3^6*Pi^2) - 
+   (((5*I)/16)*e*E^(m3^2/Msq - zero)*equ*mqd*mqu*u0^2*
+     HoldForm[NIntegrate][s/E^(s/Msq), {s, 0, s0}])/(f3^2*m3^6*Pi^2) - 
+   (((9*I)/280)*e*E^(m3^2/Msq - zero)*eqd*u0^3*HoldForm[NIntegrate][
+      s/E^(s/Msq), {s, 0, s0}])/(f3^2*m3^4*Pi^2) + 
+   (((9*I)/280)*e*E^(m3^2/Msq - zero)*equ*u0^3*HoldForm[NIntegrate][
+      s/E^(s/Msq), {s, 0, s0}])/(f3^2*m3^4*Pi^2) + 
+   (((9*I)/14)*e*E^(m3^2/Msq - zero)*eqd*u0^4*HoldForm[NIntegrate][
+      s/E^(s/Msq), {s, 0, s0}])/(f3^2*m3^4*Pi^2) - 
+   (((9*I)/14)*e*E^(m3^2/Msq - zero)*equ*u0^4*HoldForm[NIntegrate][
+      s/E^(s/Msq), {s, 0, s0}])/(f3^2*m3^4*Pi^2) - 
+   ((I/7)*e*E^(m3^2/Msq - zero)*eqd*u0^5*HoldForm[NIntegrate][s/E^(s/Msq), 
+      {s, 0, s0}])/(f3^2*m3^4*Pi^2) + ((I/7)*e*E^(m3^2/Msq - zero)*equ*u0^5*
+     HoldForm[NIntegrate][s/E^(s/Msq), {s, 0, s0}])/(f3^2*m3^4*Pi^2) - 
+   (((103*I)/2688)*e*E^(m3^2/Msq - zero)*eqd*HoldForm[NIntegrate][
+      s^2/E^(s/Msq), {s, 0, s0}])/(f3^2*m3^6*Pi^2) + 
+   (((103*I)/2688)*e*E^(m3^2/Msq - zero)*equ*HoldForm[NIntegrate][
+      s^2/E^(s/Msq), {s, 0, s0}])/(f3^2*m3^6*Pi^2) + 
+   (((25*I)/1536)*e*E^(m3^2/Msq - zero)*eqd*mqd*mqu*
+     HoldForm[NIntegrate][s^2/E^(s/Msq), {s, 0, s0}])/(f3^2*m3^8*Pi^2) - 
+   (((25*I)/1536)*e*E^(m3^2/Msq - zero)*equ*mqd*mqu*
+     HoldForm[NIntegrate][s^2/E^(s/Msq), {s, 0, s0}])/(f3^2*m3^8*Pi^2) + 
+   (((95*I)/896)*e*E^(m3^2/Msq - zero)*eqd*u0*HoldForm[NIntegrate][
+      s^2/E^(s/Msq), {s, 0, s0}])/(f3^2*m3^6*Pi^2) - 
+   (((95*I)/896)*e*E^(m3^2/Msq - zero)*equ*u0*HoldForm[NIntegrate][
+      s^2/E^(s/Msq), {s, 0, s0}])/(f3^2*m3^6*Pi^2) - 
+   (((45*I)/448)*e*E^(m3^2/Msq - zero)*eqd*u0^2*HoldForm[NIntegrate][
+      s^2/E^(s/Msq), {s, 0, s0}])/(f3^2*m3^6*Pi^2) + 
+   (((45*I)/448)*e*E^(m3^2/Msq - zero)*equ*u0^2*HoldForm[NIntegrate][
+      s^2/E^(s/Msq), {s, 0, s0}])/(f3^2*m3^6*Pi^2) + 
+   ((I/168)*e*E^(m3^2/Msq - zero)*eqd*u0^3*HoldForm[NIntegrate][
+      s^2/E^(s/Msq), {s, 0, s0}])/(f3^2*m3^6*Pi^2) - 
+   ((I/168)*e*E^(m3^2/Msq - zero)*equ*u0^3*HoldForm[NIntegrate][
+      s^2/E^(s/Msq), {s, 0, s0}])/(f3^2*m3^6*Pi^2) - 
+   (((5*I)/672)*e*E^(m3^2/Msq - zero)*eqd*HoldForm[NIntegrate][s^3/E^(s/Msq), 
+      {s, 0, s0}])/(f3^2*m3^8*Pi^2) + (((5*I)/672)*e*E^(m3^2/Msq - zero)*equ*
+     HoldForm[NIntegrate][s^3/E^(s/Msq), {s, 0, s0}])/(f3^2*m3^8*Pi^2) + 
+   (((25*I)/5376)*e*E^(m3^2/Msq - zero)*eqd*u0*HoldForm[NIntegrate][
+      s^3/E^(s/Msq), {s, 0, s0}])/(f3^2*m3^8*Pi^2) - 
+   (((25*I)/5376)*e*E^(m3^2/Msq - zero)*equ*u0*HoldForm[NIntegrate][
+      s^3/E^(s/Msq), {s, 0, s0}])/(f3^2*m3^8*Pi^2) - 
+   (((3*I)/128)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*HoldForm[NIntegrate][
+      -10*(1 - 6*up + 6*up^2), {up, 0, 1 - u0}])/(f3^2*m3^4) + 
+   ((I/8)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*u*HoldForm[NIntegrate][
+      -10*(1 - 6*up + 6*up^2), {up, 0, 1 - u0}])/(f3^2*m3^4) - 
+   (((11*I)/48)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*u^2*
+     HoldForm[NIntegrate][-10*(1 - 6*up + 6*up^2), {up, 0, 1 - u0}])/
+    (f3^2*m3^4) + ((I/6)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*u^3*
+     HoldForm[NIntegrate][-10*(1 - 6*up + 6*up^2), {up, 0, 1 - u0}])/
+    (f3^2*m3^4) - ((I/24)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*u^4*
+     HoldForm[NIntegrate][-10*(1 - 6*up + 6*up^2), {up, 0, 1 - u0}])/
+    (f3^2*m3^4) - (((11*I)/64)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*u0*
+     HoldForm[NIntegrate][-10*(1 - 6*up + 6*up^2), {up, 0, 1 - u0}])/
+    (f3^2*m3^4) + (((17*I)/24)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*u*u0*
+     HoldForm[NIntegrate][-10*(1 - 6*up + 6*up^2), {up, 0, 1 - u0}])/
+    (f3^2*m3^4) - (((23*I)/24)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*u^2*u0*
+     HoldForm[NIntegrate][-10*(1 - 6*up + 6*up^2), {up, 0, 1 - u0}])/
+    (f3^2*m3^4) + ((I/2)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*u^3*u0*
+     HoldForm[NIntegrate][-10*(1 - 6*up + 6*up^2), {up, 0, 1 - u0}])/
+    (f3^2*m3^4) - ((I/12)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*u^4*u0*
+     HoldForm[NIntegrate][-10*(1 - 6*up + 6*up^2), {up, 0, 1 - u0}])/
+    (f3^2*m3^4) - (((23*I)/48)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*u0^2*
+     HoldForm[NIntegrate][-10*(1 - 6*up + 6*up^2), {up, 0, 1 - u0}])/
+    (f3^2*m3^4) + (((17*I)/12)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*u*u0^2*
+     HoldForm[NIntegrate][-10*(1 - 6*up + 6*up^2), {up, 0, 1 - u0}])/
+    (f3^2*m3^4) - (((5*I)/4)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*u^2*u0^2*
+     HoldForm[NIntegrate][-10*(1 - 6*up + 6*up^2), {up, 0, 1 - u0}])/
+    (f3^2*m3^4) + ((I/3)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*u^3*u0^2*
+     HoldForm[NIntegrate][-10*(1 - 6*up + 6*up^2), {up, 0, 1 - u0}])/
+    (f3^2*m3^4) - (((5*I)/8)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*u0^3*
+     HoldForm[NIntegrate][-10*(1 - 6*up + 6*up^2), {up, 0, 1 - u0}])/
+    (f3^2*m3^4) + (((7*I)/6)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*u*u0^3*
+     HoldForm[NIntegrate][-10*(1 - 6*up + 6*up^2), {up, 0, 1 - u0}])/
+    (f3^2*m3^4) - ((I/2)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*u^2*u0^3*
+     HoldForm[NIntegrate][-10*(1 - 6*up + 6*up^2), {up, 0, 1 - u0}])/
+    (f3^2*m3^4) - (((3*I)/8)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*u0^4*
+     HoldForm[NIntegrate][-10*(1 - 6*up + 6*up^2), {up, 0, 1 - u0}])/
+    (f3^2*m3^4) + ((I/3)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*u*u0^4*
+     HoldForm[NIntegrate][-10*(1 - 6*up + 6*up^2), {up, 0, 1 - u0}])/
+    (f3^2*m3^4) - ((I/12)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*u0^5*
+     HoldForm[NIntegrate][-10*(1 - 6*up + 6*up^2), {up, 0, 1 - u0}])/
+    (f3^2*m3^4) + ((I/384)*e*E^(m3^2/Msq - zero)*equ*mqd*uu*
+     HoldForm[NIntegrate][-10*(1 - 6*up + 6*up^2), {up, u0, 1}])/
+    (f3^2*m3^4) - ((I/48)*e*E^(m3^2/Msq - zero)*equ*mqd*u^2*uu*
+     HoldForm[NIntegrate][-10*(1 - 6*up + 6*up^2), {up, u0, 1}])/
+    (f3^2*m3^4) + ((I/24)*e*E^(m3^2/Msq - zero)*equ*mqd*u^4*uu*
+     HoldForm[NIntegrate][-10*(1 - 6*up + 6*up^2), {up, u0, 1}])/
+    (f3^2*m3^4) + ((I/192)*e*E^(m3^2/Msq - zero)*equ*mqd*u0*uu*
+     HoldForm[NIntegrate][-10*(1 - 6*up + 6*up^2), {up, u0, 1}])/
+    (f3^2*m3^4) - ((I/24)*e*E^(m3^2/Msq - zero)*equ*mqd*u*u0*uu*
+     HoldForm[NIntegrate][-10*(1 - 6*up + 6*up^2), {up, u0, 1}])/
+    (f3^2*m3^4) - ((I/24)*e*E^(m3^2/Msq - zero)*equ*mqd*u^2*u0*uu*
+     HoldForm[NIntegrate][-10*(1 - 6*up + 6*up^2), {up, u0, 1}])/
+    (f3^2*m3^4) + ((I/6)*e*E^(m3^2/Msq - zero)*equ*mqd*u^3*u0*uu*
+     HoldForm[NIntegrate][-10*(1 - 6*up + 6*up^2), {up, u0, 1}])/
+    (f3^2*m3^4) + ((I/12)*e*E^(m3^2/Msq - zero)*equ*mqd*u^4*u0*uu*
+     HoldForm[NIntegrate][-10*(1 - 6*up + 6*up^2), {up, u0, 1}])/
+    (f3^2*m3^4) - ((I/48)*e*E^(m3^2/Msq - zero)*equ*mqd*u0^2*uu*
+     HoldForm[NIntegrate][-10*(1 - 6*up + 6*up^2), {up, u0, 1}])/
+    (f3^2*m3^4) - ((I/12)*e*E^(m3^2/Msq - zero)*equ*mqd*u*u0^2*uu*
+     HoldForm[NIntegrate][-10*(1 - 6*up + 6*up^2), {up, u0, 1}])/
+    (f3^2*m3^4) + ((I/4)*e*E^(m3^2/Msq - zero)*equ*mqd*u^2*u0^2*uu*
+     HoldForm[NIntegrate][-10*(1 - 6*up + 6*up^2), {up, u0, 1}])/
+    (f3^2*m3^4) + ((I/3)*e*E^(m3^2/Msq - zero)*equ*mqd*u^3*u0^2*uu*
+     HoldForm[NIntegrate][-10*(1 - 6*up + 6*up^2), {up, u0, 1}])/
+    (f3^2*m3^4) - ((I/24)*e*E^(m3^2/Msq - zero)*equ*mqd*u0^3*uu*
+     HoldForm[NIntegrate][-10*(1 - 6*up + 6*up^2), {up, u0, 1}])/
+    (f3^2*m3^4) + ((I/6)*e*E^(m3^2/Msq - zero)*equ*mqd*u*u0^3*uu*
+     HoldForm[NIntegrate][-10*(1 - 6*up + 6*up^2), {up, u0, 1}])/
+    (f3^2*m3^4) + ((I/2)*e*E^(m3^2/Msq - zero)*equ*mqd*u^2*u0^3*uu*
+     HoldForm[NIntegrate][-10*(1 - 6*up + 6*up^2), {up, u0, 1}])/
+    (f3^2*m3^4) + ((I/24)*e*E^(m3^2/Msq - zero)*equ*mqd*u0^4*uu*
+     HoldForm[NIntegrate][-10*(1 - 6*up + 6*up^2), {up, u0, 1}])/
+    (f3^2*m3^4) + ((I/3)*e*E^(m3^2/Msq - zero)*equ*mqd*u*u0^4*uu*
+     HoldForm[NIntegrate][-10*(1 - 6*up + 6*up^2), {up, u0, 1}])/
+    (f3^2*m3^4) + ((I/12)*e*E^(m3^2/Msq - zero)*equ*mqd*u0^5*uu*
+     HoldForm[NIntegrate][-10*(1 - 6*up + 6*up^2), {up, u0, 1}])/
+    (f3^2*m3^4) - ((I/48)*e*E^(m3^2/Msq - zero)*equ*mqd*uu*
+     HoldForm[NIntegrate][-10*(u0 - up)^2*(1 - 6*up + 6*up^2), {up, u0, 1}])/
+    (f3^2*m3^4) + ((I/12)*e*E^(m3^2/Msq - zero)*equ*mqd*u*uu*
+     HoldForm[NIntegrate][-10*(u0 - up)^2*(1 - 6*up + 6*up^2), {up, u0, 1}])/
+    (f3^2*m3^4) + ((I/4)*e*E^(m3^2/Msq - zero)*equ*mqd*u^2*uu*
+     HoldForm[NIntegrate][-10*(u0 - up)^2*(1 - 6*up + 6*up^2), {up, u0, 1}])/
+    (f3^2*m3^4) - ((I/3)*e*E^(m3^2/Msq - zero)*equ*mqd*u^3*uu*
+     HoldForm[NIntegrate][-10*(u0 - up)^2*(1 - 6*up + 6*up^2), {up, u0, 1}])/
+    (f3^2*m3^4) + ((I/24)*e*E^(m3^2/Msq - zero)*equ*mqd*u0*uu*
+     HoldForm[NIntegrate][-10*(u0 - up)^2*(1 - 6*up + 6*up^2), {up, u0, 1}])/
+    (f3^2*m3^4) + ((I/2)*e*E^(m3^2/Msq - zero)*equ*mqd*u*u0*uu*
+     HoldForm[NIntegrate][-10*(u0 - up)^2*(1 - 6*up + 6*up^2), {up, u0, 1}])/
+    (f3^2*m3^4) - ((I/2)*e*E^(m3^2/Msq - zero)*equ*mqd*u^2*u0*uu*
+     HoldForm[NIntegrate][-10*(u0 - up)^2*(1 - 6*up + 6*up^2), {up, u0, 1}])/
+    (f3^2*m3^4) + ((I/4)*e*E^(m3^2/Msq - zero)*equ*mqd*u0^2*uu*
+     HoldForm[NIntegrate][-10*(u0 - up)^2*(1 - 6*up + 6*up^2), {up, u0, 1}])/
+    (f3^2*m3^4) + ((I/6)*e*E^(m3^2/Msq - zero)*equ*mqd*u0^3*uu*
+     HoldForm[NIntegrate][-10*(u0 - up)^2*(1 - 6*up + 6*up^2), {up, u0, 1}])/
+    (f3^2*m3^4) + (((5*I)/6)*e*E^(m3^2/Msq - zero)*equ*mqd*uu*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][-10*(u0 - up)^2*(1 - 6*up + 6*up^2), {up, u0, 1}])/
+    (f3^2*m3^6) - (((5*I)/3)*e*E^(m3^2/Msq - zero)*equ*mqd*u*uu*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][-10*(u0 - up)^2*(1 - 6*up + 6*up^2), {up, u0, 1}])/
+    (f3^2*m3^6) - (((5*I)/3)*e*E^(m3^2/Msq - zero)*equ*mqd*u0*uu*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][-10*(u0 - up)^2*(1 - 6*up + 6*up^2), {up, u0, 1}])/
+    (f3^2*m3^6) + ((I/24)*e*E^(m3^2/Msq - zero)*equ*mqd*uu*
+     HoldForm[NIntegrate][-10*(u0 - up)^4*(1 - 6*up + 6*up^2), {up, u0, 1}])/
+    (f3^2*m3^4) - ((I/3)*e*E^(m3^2/Msq - zero)*equ*mqd*u*uu*
+     HoldForm[NIntegrate][-10*(u0 - up)^4*(1 - 6*up + 6*up^2), {up, u0, 1}])/
+    (f3^2*m3^4) - ((I/4)*e*E^(m3^2/Msq - zero)*equ*mqd*u0*uu*
+     HoldForm[NIntegrate][-10*(u0 - up)^4*(1 - 6*up + 6*up^2), {up, u0, 1}])/
+    (f3^2*m3^4) - ((I/192)*e*E^(m3^2/Msq - zero)*equ*mqd*uu*
+     HoldForm[NIntegrate][-10*(-u0 + up)*(1 - 6*up + 6*up^2), {up, u0, 1}])/
+    (f3^2*m3^4) - ((I/24)*e*E^(m3^2/Msq - zero)*equ*mqd*u*uu*
+     HoldForm[NIntegrate][-10*(-u0 + up)*(1 - 6*up + 6*up^2), {up, u0, 1}])/
+    (f3^2*m3^4) + ((I/24)*e*E^(m3^2/Msq - zero)*equ*mqd*u^2*uu*
+     HoldForm[NIntegrate][-10*(-u0 + up)*(1 - 6*up + 6*up^2), {up, u0, 1}])/
+    (f3^2*m3^4) + ((I/6)*e*E^(m3^2/Msq - zero)*equ*mqd*u^3*uu*
+     HoldForm[NIntegrate][-10*(-u0 + up)*(1 - 6*up + 6*up^2), {up, u0, 1}])/
+    (f3^2*m3^4) - ((I/12)*e*E^(m3^2/Msq - zero)*equ*mqd*u^4*uu*
+     HoldForm[NIntegrate][-10*(-u0 + up)*(1 - 6*up + 6*up^2), {up, u0, 1}])/
+    (f3^2*m3^4) - ((I/24)*e*E^(m3^2/Msq - zero)*equ*mqd*u0*uu*
+     HoldForm[NIntegrate][-10*(-u0 + up)*(1 - 6*up + 6*up^2), {up, u0, 1}])/
+    (f3^2*m3^4) + ((I/2)*e*E^(m3^2/Msq - zero)*equ*mqd*u^2*u0*uu*
+     HoldForm[NIntegrate][-10*(-u0 + up)*(1 - 6*up + 6*up^2), {up, u0, 1}])/
+    (f3^2*m3^4) - ((I/24)*e*E^(m3^2/Msq - zero)*equ*mqd*u0^2*uu*
+     HoldForm[NIntegrate][-10*(-u0 + up)*(1 - 6*up + 6*up^2), {up, u0, 1}])/
+    (f3^2*m3^4) + ((I/2)*e*E^(m3^2/Msq - zero)*equ*mqd*u*u0^2*uu*
+     HoldForm[NIntegrate][-10*(-u0 + up)*(1 - 6*up + 6*up^2), {up, u0, 1}])/
+    (f3^2*m3^4) + ((I/2)*e*E^(m3^2/Msq - zero)*equ*mqd*u^2*u0^2*uu*
+     HoldForm[NIntegrate][-10*(-u0 + up)*(1 - 6*up + 6*up^2), {up, u0, 1}])/
+    (f3^2*m3^4) + ((I/6)*e*E^(m3^2/Msq - zero)*equ*mqd*u0^3*uu*
+     HoldForm[NIntegrate][-10*(-u0 + up)*(1 - 6*up + 6*up^2), {up, u0, 1}])/
+    (f3^2*m3^4) + (((2*I)/3)*e*E^(m3^2/Msq - zero)*equ*mqd*u*u0^3*uu*
+     HoldForm[NIntegrate][-10*(-u0 + up)*(1 - 6*up + 6*up^2), {up, u0, 1}])/
+    (f3^2*m3^4) + ((I/4)*e*E^(m3^2/Msq - zero)*equ*mqd*u0^4*uu*
+     HoldForm[NIntegrate][-10*(-u0 + up)*(1 - 6*up + 6*up^2), {up, u0, 1}])/
+    (f3^2*m3^4) - (((5*I)/24)*e*E^(m3^2/Msq - zero)*equ*mqd*uu*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][-10*(-u0 + up)*(1 - 6*up + 6*up^2), {up, u0, 1}])/
+    (f3^2*m3^6) + (((5*I)/6)*e*E^(m3^2/Msq - zero)*equ*mqd*u*uu*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][-10*(-u0 + up)*(1 - 6*up + 6*up^2), {up, u0, 1}])/
+    (f3^2*m3^6) - (((5*I)/6)*e*E^(m3^2/Msq - zero)*equ*mqd*u^2*uu*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][-10*(-u0 + up)*(1 - 6*up + 6*up^2), {up, u0, 1}])/
+    (f3^2*m3^6) + (((5*I)/6)*e*E^(m3^2/Msq - zero)*equ*mqd*u0*uu*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][-10*(-u0 + up)*(1 - 6*up + 6*up^2), {up, u0, 1}])/
+    (f3^2*m3^6) - (((5*I)/3)*e*E^(m3^2/Msq - zero)*equ*mqd*u*u0*uu*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][-10*(-u0 + up)*(1 - 6*up + 6*up^2), {up, u0, 1}])/
+    (f3^2*m3^6) - (((5*I)/6)*e*E^(m3^2/Msq - zero)*equ*mqd*u0^2*uu*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][-10*(-u0 + up)*(1 - 6*up + 6*up^2), {up, u0, 1}])/
+    (f3^2*m3^6) + ((I/24)*e*E^(m3^2/Msq - zero)*equ*mqd*uu*
+     HoldForm[NIntegrate][-10*(-u0 + up)^3*(1 - 6*up + 6*up^2), {up, u0, 1}])/
+    (f3^2*m3^4) + ((I/6)*e*E^(m3^2/Msq - zero)*equ*mqd*u*uu*
+     HoldForm[NIntegrate][-10*(-u0 + up)^3*(1 - 6*up + 6*up^2), {up, u0, 1}])/
+    (f3^2*m3^4) - ((I/2)*e*E^(m3^2/Msq - zero)*equ*mqd*u^2*uu*
+     HoldForm[NIntegrate][-10*(-u0 + up)^3*(1 - 6*up + 6*up^2), {up, u0, 1}])/
+    (f3^2*m3^4) + ((I/6)*e*E^(m3^2/Msq - zero)*equ*mqd*u0*uu*
+     HoldForm[NIntegrate][-10*(-u0 + up)^3*(1 - 6*up + 6*up^2), {up, u0, 1}])/
+    (f3^2*m3^4) - (((2*I)/3)*e*E^(m3^2/Msq - zero)*equ*mqd*u*u0*uu*
+     HoldForm[NIntegrate][-10*(-u0 + up)^3*(1 - 6*up + 6*up^2), {up, u0, 1}])/
+    (f3^2*m3^4) - ((I/6)*e*E^(m3^2/Msq - zero)*equ*mqd*u0^2*uu*
+     HoldForm[NIntegrate][-10*(-u0 + up)^3*(1 - 6*up + 6*up^2), {up, u0, 1}])/
+    (f3^2*m3^4) - (((5*I)/6)*e*E^(m3^2/Msq - zero)*equ*mqd*uu*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][-10*(-u0 + up)^3*(1 - 6*up + 6*up^2), {up, u0, 1}])/
+    (f3^2*m3^6) - ((I/12)*e*E^(m3^2/Msq - zero)*equ*mqd*uu*
+     HoldForm[NIntegrate][-10*(-u0 + up)^5*(1 - 6*up + 6*up^2), {up, u0, 1}])/
+    (f3^2*m3^4) - (((5*I)/64)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*
+     HoldForm[NIntegrate][10*(-1 + u0 + up)*(1 - 6*up + 6*up^2), 
+      {up, 0, 1 - u0}])/(f3^2*m3^4) + (((5*I)/24)*dd*e*E^(m3^2/Msq - zero)*
+     eqd*mqu*u*HoldForm[NIntegrate][10*(-1 + u0 + up)*(1 - 6*up + 6*up^2), 
+      {up, 0, 1 - u0}])/(f3^2*m3^4) - ((I/24)*dd*e*E^(m3^2/Msq - zero)*eqd*
+     mqu*u^2*HoldForm[NIntegrate][10*(-1 + u0 + up)*(1 - 6*up + 6*up^2), 
+      {up, 0, 1 - u0}])/(f3^2*m3^4) - ((I/6)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*
+     u^3*HoldForm[NIntegrate][10*(-1 + u0 + up)*(1 - 6*up + 6*up^2), 
+      {up, 0, 1 - u0}])/(f3^2*m3^4) + ((I/12)*dd*e*E^(m3^2/Msq - zero)*eqd*
+     mqu*u^4*HoldForm[NIntegrate][10*(-1 + u0 + up)*(1 - 6*up + 6*up^2), 
+      {up, 0, 1 - u0}])/(f3^2*m3^4) - (((11*I)/24)*dd*e*E^(m3^2/Msq - zero)*
+     eqd*mqu*u0*HoldForm[NIntegrate][10*(-1 + u0 + up)*(1 - 6*up + 6*up^2), 
+      {up, 0, 1 - u0}])/(f3^2*m3^4) + (I*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*u*
+     u0*HoldForm[NIntegrate][10*(-1 + u0 + up)*(1 - 6*up + 6*up^2), 
+      {up, 0, 1 - u0}])/(f3^2*m3^4) - ((I/2)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*
+     u^2*u0*HoldForm[NIntegrate][10*(-1 + u0 + up)*(1 - 6*up + 6*up^2), 
+      {up, 0, 1 - u0}])/(f3^2*m3^4) - (((23*I)/24)*dd*e*E^(m3^2/Msq - zero)*
+     eqd*mqu*u0^2*HoldForm[NIntegrate][10*(-1 + u0 + up)*(1 - 6*up + 6*up^2), 
+      {up, 0, 1 - u0}])/(f3^2*m3^4) + (((3*I)/2)*dd*e*E^(m3^2/Msq - zero)*eqd*
+     mqu*u*u0^2*HoldForm[NIntegrate][10*(-1 + u0 + up)*(1 - 6*up + 6*up^2), 
+      {up, 0, 1 - u0}])/(f3^2*m3^4) - ((I/2)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*
+     u^2*u0^2*HoldForm[NIntegrate][10*(-1 + u0 + up)*(1 - 6*up + 6*up^2), 
+      {up, 0, 1 - u0}])/(f3^2*m3^4) - (((5*I)/6)*dd*e*E^(m3^2/Msq - zero)*eqd*
+     mqu*u0^3*HoldForm[NIntegrate][10*(-1 + u0 + up)*(1 - 6*up + 6*up^2), 
+      {up, 0, 1 - u0}])/(f3^2*m3^4) + (((2*I)/3)*dd*e*E^(m3^2/Msq - zero)*eqd*
+     mqu*u*u0^3*HoldForm[NIntegrate][10*(-1 + u0 + up)*(1 - 6*up + 6*up^2), 
+      {up, 0, 1 - u0}])/(f3^2*m3^4) - ((I/4)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*
+     u0^4*HoldForm[NIntegrate][10*(-1 + u0 + up)*(1 - 6*up + 6*up^2), 
+      {up, 0, 1 - u0}])/(f3^2*m3^4) + (((5*I)/24)*dd*e*E^(m3^2/Msq - zero)*
+     eqd*mqu*HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][10*(-1 + u0 + up)*(1 - 6*up + 6*up^2), 
+      {up, 0, 1 - u0}])/(f3^2*m3^6) - (((5*I)/6)*dd*e*E^(m3^2/Msq - zero)*eqd*
+     mqu*u*HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][10*(-1 + u0 + up)*(1 - 6*up + 6*up^2), 
+      {up, 0, 1 - u0}])/(f3^2*m3^6) + (((5*I)/6)*dd*e*E^(m3^2/Msq - zero)*eqd*
+     mqu*u^2*HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][10*(-1 + u0 + up)*(1 - 6*up + 6*up^2), 
+      {up, 0, 1 - u0}])/(f3^2*m3^6) + (((5*I)/6)*dd*e*E^(m3^2/Msq - zero)*eqd*
+     mqu*u0*HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][10*(-1 + u0 + up)*(1 - 6*up + 6*up^2), 
+      {up, 0, 1 - u0}])/(f3^2*m3^6) - (((5*I)/3)*dd*e*E^(m3^2/Msq - zero)*eqd*
+     mqu*u*u0*HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][10*(-1 + u0 + up)*(1 - 6*up + 6*up^2), 
+      {up, 0, 1 - u0}])/(f3^2*m3^6) + (((5*I)/6)*dd*e*E^(m3^2/Msq - zero)*eqd*
+     mqu*u0^2*HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][10*(-1 + u0 + up)*(1 - 6*up + 6*up^2), 
+      {up, 0, 1 - u0}])/(f3^2*m3^6) + ((I/48)*dd*e*E^(m3^2/Msq - zero)*eqd*
+     mqu*HoldForm[NIntegrate][-10*(-1 + u0 + up)^2*(1 - 6*up + 6*up^2), 
+      {up, 0, 1 - u0}])/(f3^2*m3^4) - (((5*I)/12)*dd*e*E^(m3^2/Msq - zero)*
+     eqd*mqu*u*HoldForm[NIntegrate][-10*(-1 + u0 + up)^2*(1 - 6*up + 6*up^2), 
+      {up, 0, 1 - u0}])/(f3^2*m3^4) + (((3*I)/4)*dd*e*E^(m3^2/Msq - zero)*eqd*
+     mqu*u^2*HoldForm[NIntegrate][-10*(-1 + u0 + up)^2*(1 - 6*up + 6*up^2), 
+      {up, 0, 1 - u0}])/(f3^2*m3^4) - ((I/3)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*
+     u^3*HoldForm[NIntegrate][-10*(-1 + u0 + up)^2*(1 - 6*up + 6*up^2), 
+      {up, 0, 1 - u0}])/(f3^2*m3^4) - ((I/24)*dd*e*E^(m3^2/Msq - zero)*eqd*
+     mqu*u0*HoldForm[NIntegrate][-10*(-1 + u0 + up)^2*(1 - 6*up + 6*up^2), 
+      {up, 0, 1 - u0}])/(f3^2*m3^4) - ((I/2)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*
+     u*u0*HoldForm[NIntegrate][-10*(-1 + u0 + up)^2*(1 - 6*up + 6*up^2), 
+      {up, 0, 1 - u0}])/(f3^2*m3^4) + ((I/2)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*
+     u^2*u0*HoldForm[NIntegrate][-10*(-1 + u0 + up)^2*(1 - 6*up + 6*up^2), 
+      {up, 0, 1 - u0}])/(f3^2*m3^4) - ((I/4)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*
+     u0^2*HoldForm[NIntegrate][-10*(-1 + u0 + up)^2*(1 - 6*up + 6*up^2), 
+      {up, 0, 1 - u0}])/(f3^2*m3^4) - ((I/6)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*
+     u0^3*HoldForm[NIntegrate][-10*(-1 + u0 + up)^2*(1 - 6*up + 6*up^2), 
+      {up, 0, 1 - u0}])/(f3^2*m3^4) + (((5*I)/6)*dd*e*E^(m3^2/Msq - zero)*eqd*
+     mqu*HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][-10*(-1 + u0 + up)^2*(1 - 6*up + 6*up^2), 
+      {up, 0, 1 - u0}])/(f3^2*m3^6) - (((5*I)/3)*dd*e*E^(m3^2/Msq - zero)*eqd*
+     mqu*u*HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][-10*(-1 + u0 + up)^2*(1 - 6*up + 6*up^2), 
+      {up, 0, 1 - u0}])/(f3^2*m3^6) + (((5*I)/3)*dd*e*E^(m3^2/Msq - zero)*eqd*
+     mqu*u0*HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][-10*(-1 + u0 + up)^2*(1 - 6*up + 6*up^2), 
+      {up, 0, 1 - u0}])/(f3^2*m3^6) + (((7*I)/24)*dd*e*E^(m3^2/Msq - zero)*
+     eqd*mqu*HoldForm[NIntegrate][10*(-1 + u0 + up)^3*(1 - 6*up + 6*up^2), 
+      {up, 0, 1 - u0}])/(f3^2*m3^4) - (((5*I)/6)*dd*e*E^(m3^2/Msq - zero)*eqd*
+     mqu*u*HoldForm[NIntegrate][10*(-1 + u0 + up)^3*(1 - 6*up + 6*up^2), 
+      {up, 0, 1 - u0}])/(f3^2*m3^4) + ((I/2)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*
+     u^2*HoldForm[NIntegrate][10*(-1 + u0 + up)^3*(1 - 6*up + 6*up^2), 
+      {up, 0, 1 - u0}])/(f3^2*m3^4) + ((I/2)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*
+     u0*HoldForm[NIntegrate][10*(-1 + u0 + up)^3*(1 - 6*up + 6*up^2), 
+      {up, 0, 1 - u0}])/(f3^2*m3^4) - (((2*I)/3)*dd*e*E^(m3^2/Msq - zero)*eqd*
+     mqu*u*u0*HoldForm[NIntegrate][10*(-1 + u0 + up)^3*(1 - 6*up + 6*up^2), 
+      {up, 0, 1 - u0}])/(f3^2*m3^4) + ((I/6)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*
+     u0^2*HoldForm[NIntegrate][10*(-1 + u0 + up)^3*(1 - 6*up + 6*up^2), 
+      {up, 0, 1 - u0}])/(f3^2*m3^4) + (((5*I)/6)*dd*e*E^(m3^2/Msq - zero)*eqd*
+     mqu*HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][10*(-1 + u0 + up)^3*(1 - 6*up + 6*up^2), 
+      {up, 0, 1 - u0}])/(f3^2*m3^6) + (((7*I)/24)*dd*e*E^(m3^2/Msq - zero)*
+     eqd*mqu*HoldForm[NIntegrate][-10*(-1 + u0 + up)^4*(1 - 6*up + 6*up^2), 
+      {up, 0, 1 - u0}])/(f3^2*m3^4) - ((I/3)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*
+     u*HoldForm[NIntegrate][-10*(-1 + u0 + up)^4*(1 - 6*up + 6*up^2), 
+      {up, 0, 1 - u0}])/(f3^2*m3^4) + ((I/4)*dd*e*E^(m3^2/Msq - zero)*eqd*mqu*
+     u0*HoldForm[NIntegrate][-10*(-1 + u0 + up)^4*(1 - 6*up + 6*up^2), 
+      {up, 0, 1 - u0}])/(f3^2*m3^4) + ((I/12)*dd*e*E^(m3^2/Msq - zero)*eqd*
+     mqu*HoldForm[NIntegrate][10*(-1 + u0 + up)^5*(1 - 6*up + 6*up^2), 
+      {up, 0, 1 - u0}])/(f3^2*m3^4) + (((27*I)/64)*e*E^(m3^2/Msq - zero)*eqd*
+     f3gamma*HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][3*(-1 + 3*(-1 + 2*up)^2) + 
+       3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4), {up, 0, 1 - u0}])/
+    (f3^2*m3^4) - (((3*I)/2)*e*E^(m3^2/Msq - zero)*eqd*f3gamma*u*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][3*(-1 + 3*(-1 + 2*up)^2) + 
+       3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4), {up, 0, 1 - u0}])/
+    (f3^2*m3^4) + (((13*I)/8)*e*E^(m3^2/Msq - zero)*eqd*f3gamma*u^2*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][3*(-1 + 3*(-1 + 2*up)^2) + 
+       3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4), {up, 0, 1 - u0}])/
+    (f3^2*m3^4) - (((2*I)/3)*e*E^(m3^2/Msq - zero)*eqd*f3gamma*u^3*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][3*(-1 + 3*(-1 + 2*up)^2) + 
+       3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4), {up, 0, 1 - u0}])/
+    (f3^2*m3^4) + ((I/12)*e*E^(m3^2/Msq - zero)*eqd*f3gamma*u^4*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][3*(-1 + 3*(-1 + 2*up)^2) + 
+       3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4), {up, 0, 1 - u0}])/
+    (f3^2*m3^4) + (((9*I)/4)*e*E^(m3^2/Msq - zero)*eqd*f3gamma*u0*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][3*(-1 + 3*(-1 + 2*up)^2) + 
+       3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4), {up, 0, 1 - u0}])/
+    (f3^2*m3^4) - (((23*I)/4)*e*E^(m3^2/Msq - zero)*eqd*f3gamma*u*u0*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][3*(-1 + 3*(-1 + 2*up)^2) + 
+       3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4), {up, 0, 1 - u0}])/
+    (f3^2*m3^4) + (((13*I)/3)*e*E^(m3^2/Msq - zero)*eqd*f3gamma*u^2*u0*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][3*(-1 + 3*(-1 + 2*up)^2) + 
+       3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4), {up, 0, 1 - u0}])/
+    (f3^2*m3^4) - (I*e*E^(m3^2/Msq - zero)*eqd*f3gamma*u^3*u0*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][3*(-1 + 3*(-1 + 2*up)^2) + 
+       3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4), {up, 0, 1 - u0}])/
+    (f3^2*m3^4) + (((33*I)/8)*e*E^(m3^2/Msq - zero)*eqd*f3gamma*u0^2*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][3*(-1 + 3*(-1 + 2*up)^2) + 
+       3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4), {up, 0, 1 - u0}])/
+    (f3^2*m3^4) - (((20*I)/3)*e*E^(m3^2/Msq - zero)*eqd*f3gamma*u*u0^2*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][3*(-1 + 3*(-1 + 2*up)^2) + 
+       3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4), {up, 0, 1 - u0}])/
+    (f3^2*m3^4) + (((5*I)/2)*e*E^(m3^2/Msq - zero)*eqd*f3gamma*u^2*u0^2*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][3*(-1 + 3*(-1 + 2*up)^2) + 
+       3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4), {up, 0, 1 - u0}])/
+    (f3^2*m3^4) + ((3*I)*e*E^(m3^2/Msq - zero)*eqd*f3gamma*u0^3*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][3*(-1 + 3*(-1 + 2*up)^2) + 
+       3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4), {up, 0, 1 - u0}])/
+    (f3^2*m3^4) - (((7*I)/3)*e*E^(m3^2/Msq - zero)*eqd*f3gamma*u*u0^3*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][3*(-1 + 3*(-1 + 2*up)^2) + 
+       3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4), {up, 0, 1 - u0}])/
+    (f3^2*m3^4) + (((3*I)/4)*e*E^(m3^2/Msq - zero)*eqd*f3gamma*u0^4*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][3*(-1 + 3*(-1 + 2*up)^2) + 
+       3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4), {up, 0, 1 - u0}])/
+    (f3^2*m3^4) + (((7*I)/192)*e*E^(m3^2/Msq - zero)*equ*f3gamma*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][3*(-1 + 3*(-1 + 2*up)^2) + 
+       3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4), {up, u0, 1}])/
+    (f3^2*m3^4) + ((I/12)*e*E^(m3^2/Msq - zero)*equ*f3gamma*u*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][3*(-1 + 3*(-1 + 2*up)^2) + 
+       3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4), {up, u0, 1}])/
+    (f3^2*m3^4) - ((I/8)*e*E^(m3^2/Msq - zero)*equ*f3gamma*u^2*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][3*(-1 + 3*(-1 + 2*up)^2) + 
+       3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4), {up, u0, 1}])/
+    (f3^2*m3^4) - ((I/3)*e*E^(m3^2/Msq - zero)*equ*f3gamma*u^3*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][3*(-1 + 3*(-1 + 2*up)^2) + 
+       3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4), {up, u0, 1}])/
+    (f3^2*m3^4) - ((I/12)*e*E^(m3^2/Msq - zero)*equ*f3gamma*u^4*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][3*(-1 + 3*(-1 + 2*up)^2) + 
+       3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4), {up, u0, 1}])/
+    (f3^2*m3^4) + ((I/6)*e*E^(m3^2/Msq - zero)*equ*f3gamma*u0*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][3*(-1 + 3*(-1 + 2*up)^2) + 
+       3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4), {up, u0, 1}])/
+    (f3^2*m3^4) - ((I/12)*e*E^(m3^2/Msq - zero)*equ*f3gamma*u*u0*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][3*(-1 + 3*(-1 + 2*up)^2) + 
+       3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4), {up, u0, 1}])/
+    (f3^2*m3^4) - (((4*I)/3)*e*E^(m3^2/Msq - zero)*equ*f3gamma*u^2*u0*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][3*(-1 + 3*(-1 + 2*up)^2) + 
+       3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4), {up, u0, 1}])/
+    (f3^2*m3^4) - (I*e*E^(m3^2/Msq - zero)*equ*f3gamma*u^3*u0*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][3*(-1 + 3*(-1 + 2*up)^2) + 
+       3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4), {up, u0, 1}])/
+    (f3^2*m3^4) + ((I/24)*e*E^(m3^2/Msq - zero)*equ*f3gamma*u0^2*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][3*(-1 + 3*(-1 + 2*up)^2) + 
+       3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4), {up, u0, 1}])/
+    (f3^2*m3^4) - (((5*I)/3)*e*E^(m3^2/Msq - zero)*equ*f3gamma*u*u0^2*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][3*(-1 + 3*(-1 + 2*up)^2) + 
+       3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4), {up, u0, 1}])/
+    (f3^2*m3^4) - (((5*I)/2)*e*E^(m3^2/Msq - zero)*equ*f3gamma*u^2*u0^2*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][3*(-1 + 3*(-1 + 2*up)^2) + 
+       3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4), {up, u0, 1}])/
+    (f3^2*m3^4) - (((2*I)/3)*e*E^(m3^2/Msq - zero)*equ*f3gamma*u0^3*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][3*(-1 + 3*(-1 + 2*up)^2) + 
+       3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4), {up, u0, 1}])/
+    (f3^2*m3^4) - (((7*I)/3)*e*E^(m3^2/Msq - zero)*equ*f3gamma*u*u0^3*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][3*(-1 + 3*(-1 + 2*up)^2) + 
+       3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4), {up, u0, 1}])/
+    (f3^2*m3^4) - (((3*I)/4)*e*E^(m3^2/Msq - zero)*equ*f3gamma*u0^4*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][3*(-1 + 3*(-1 + 2*up)^2) + 
+       3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4), {up, u0, 1}])/
+    (f3^2*m3^4) - ((I/8)*e*E^(m3^2/Msq - zero)*equ*f3gamma*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][(u0 - up)^2*(3*(-1 + 3*(-1 + 2*up)^2) + 
+        3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4)), {up, u0, 1}])/
+    (f3^2*m3^4) - (I*e*E^(m3^2/Msq - zero)*equ*f3gamma*u*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][(u0 - up)^2*(3*(-1 + 3*(-1 + 2*up)^2) + 
+        3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4)), {up, u0, 1}])/
+    (f3^2*m3^4) - ((I/2)*e*E^(m3^2/Msq - zero)*equ*f3gamma*u^2*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][(u0 - up)^2*(3*(-1 + 3*(-1 + 2*up)^2) + 
+        3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4)), {up, u0, 1}])/
+    (f3^2*m3^4) - (((4*I)/3)*e*E^(m3^2/Msq - zero)*equ*f3gamma*u0*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][(u0 - up)^2*(3*(-1 + 3*(-1 + 2*up)^2) + 
+        3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4)), {up, u0, 1}])/
+    (f3^2*m3^4) - ((3*I)*e*E^(m3^2/Msq - zero)*equ*f3gamma*u*u0*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][(u0 - up)^2*(3*(-1 + 3*(-1 + 2*up)^2) + 
+        3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4)), {up, u0, 1}])/
+    (f3^2*m3^4) - (((5*I)/2)*e*E^(m3^2/Msq - zero)*equ*f3gamma*u0^2*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][(u0 - up)^2*(3*(-1 + 3*(-1 + 2*up)^2) + 
+        3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4)), {up, u0, 1}])/
+    (f3^2*m3^4) - ((I/12)*e*E^(m3^2/Msq - zero)*equ*f3gamma*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][(u0 - up)^4*(3*(-1 + 3*(-1 + 2*up)^2) + 
+        3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4)), {up, u0, 1}])/
+    (f3^2*m3^4) + ((I/12)*e*E^(m3^2/Msq - zero)*equ*f3gamma*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][(-u0 + up)*(3*(-1 + 3*(-1 + 2*up)^2) + 
+        3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4)), {up, u0, 1}])/
+    (f3^2*m3^4) - ((I/4)*e*E^(m3^2/Msq - zero)*equ*f3gamma*u*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][(-u0 + up)*(3*(-1 + 3*(-1 + 2*up)^2) + 
+        3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4)), {up, u0, 1}])/
+    (f3^2*m3^4) - (I*e*E^(m3^2/Msq - zero)*equ*f3gamma*u^2*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][(-u0 + up)*(3*(-1 + 3*(-1 + 2*up)^2) + 
+        3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4)), {up, u0, 1}])/
+    (f3^2*m3^4) - ((I/3)*e*E^(m3^2/Msq - zero)*equ*f3gamma*u^3*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][(-u0 + up)*(3*(-1 + 3*(-1 + 2*up)^2) + 
+        3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4)), {up, u0, 1}])/
+    (f3^2*m3^4) - ((I/12)*e*E^(m3^2/Msq - zero)*equ*f3gamma*u0*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][(-u0 + up)*(3*(-1 + 3*(-1 + 2*up)^2) + 
+        3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4)), {up, u0, 1}])/
+    (f3^2*m3^4) - (((8*I)/3)*e*E^(m3^2/Msq - zero)*equ*f3gamma*u*u0*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][(-u0 + up)*(3*(-1 + 3*(-1 + 2*up)^2) + 
+        3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4)), {up, u0, 1}])/
+    (f3^2*m3^4) - ((3*I)*e*E^(m3^2/Msq - zero)*equ*f3gamma*u^2*u0*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][(-u0 + up)*(3*(-1 + 3*(-1 + 2*up)^2) + 
+        3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4)), {up, u0, 1}])/
+    (f3^2*m3^4) - (((5*I)/3)*e*E^(m3^2/Msq - zero)*equ*f3gamma*u0^2*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][(-u0 + up)*(3*(-1 + 3*(-1 + 2*up)^2) + 
+        3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4)), {up, u0, 1}])/
+    (f3^2*m3^4) - ((5*I)*e*E^(m3^2/Msq - zero)*equ*f3gamma*u*u0^2*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][(-u0 + up)*(3*(-1 + 3*(-1 + 2*up)^2) + 
+        3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4)), {up, u0, 1}])/
+    (f3^2*m3^4) - (((7*I)/3)*e*E^(m3^2/Msq - zero)*equ*f3gamma*u0^3*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][(-u0 + up)*(3*(-1 + 3*(-1 + 2*up)^2) + 
+        3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4)), {up, u0, 1}])/
+    (f3^2*m3^4) - ((I/3)*e*E^(m3^2/Msq - zero)*equ*f3gamma*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][(-u0 + up)^3*(3*(-1 + 3*(-1 + 2*up)^2) + 
+        3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4)), {up, u0, 1}])/
+    (f3^2*m3^4) - ((I/3)*e*E^(m3^2/Msq - zero)*equ*f3gamma*u*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][(-u0 + up)^3*(3*(-1 + 3*(-1 + 2*up)^2) + 
+        3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4)), {up, u0, 1}])/
+    (f3^2*m3^4) - (I*e*E^(m3^2/Msq - zero)*equ*f3gamma*u0*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][(-u0 + up)^3*(3*(-1 + 3*(-1 + 2*up)^2) + 
+        3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4)), {up, u0, 1}])/
+    (f3^2*m3^4) + (((3*I)/2)*e*E^(m3^2/Msq - zero)*eqd*f3gamma*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][-((-1 + u0 + up)*(3*(-1 + 3*(-1 + 2*up)^2) + 
+         3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4))), 
+      {up, 0, 1 - u0}])/(f3^2*m3^4) - (((13*I)/4)*e*E^(m3^2/Msq - zero)*eqd*
+     f3gamma*u*HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][-((-1 + u0 + up)*(3*(-1 + 3*(-1 + 2*up)^2) + 
+         3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4))), 
+      {up, 0, 1 - u0}])/(f3^2*m3^4) + 
+   ((2*I)*e*E^(m3^2/Msq - zero)*eqd*f3gamma*u^2*HoldForm[NIntegrate][
+      E^(-(s/Msq)), {s, 0, s0}]*HoldForm[NIntegrate][
+      -((-1 + u0 + up)*(3*(-1 + 3*(-1 + 2*up)^2) + 
+         3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4))), 
+      {up, 0, 1 - u0}])/(f3^2*m3^4) - 
+   ((I/3)*e*E^(m3^2/Msq - zero)*eqd*f3gamma*u^3*HoldForm[NIntegrate][
+      E^(-(s/Msq)), {s, 0, s0}]*HoldForm[NIntegrate][
+      -((-1 + u0 + up)*(3*(-1 + 3*(-1 + 2*up)^2) + 
+         3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4))), 
+      {up, 0, 1 - u0}])/(f3^2*m3^4) + (((23*I)/4)*e*E^(m3^2/Msq - zero)*eqd*
+     f3gamma*u0*HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][-((-1 + u0 + up)*(3*(-1 + 3*(-1 + 2*up)^2) + 
+         3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4))), 
+      {up, 0, 1 - u0}])/(f3^2*m3^4) - (((26*I)/3)*e*E^(m3^2/Msq - zero)*eqd*
+     f3gamma*u*u0*HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][-((-1 + u0 + up)*(3*(-1 + 3*(-1 + 2*up)^2) + 
+         3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4))), 
+      {up, 0, 1 - u0}])/(f3^2*m3^4) + 
+   ((3*I)*e*E^(m3^2/Msq - zero)*eqd*f3gamma*u^2*u0*HoldForm[NIntegrate][
+      E^(-(s/Msq)), {s, 0, s0}]*HoldForm[NIntegrate][
+      -((-1 + u0 + up)*(3*(-1 + 3*(-1 + 2*up)^2) + 
+         3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4))), 
+      {up, 0, 1 - u0}])/(f3^2*m3^4) + (((20*I)/3)*e*E^(m3^2/Msq - zero)*eqd*
+     f3gamma*u0^2*HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][-((-1 + u0 + up)*(3*(-1 + 3*(-1 + 2*up)^2) + 
+         3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4))), 
+      {up, 0, 1 - u0}])/(f3^2*m3^4) - 
+   ((5*I)*e*E^(m3^2/Msq - zero)*eqd*f3gamma*u*u0^2*HoldForm[NIntegrate][
+      E^(-(s/Msq)), {s, 0, s0}]*HoldForm[NIntegrate][
+      -((-1 + u0 + up)*(3*(-1 + 3*(-1 + 2*up)^2) + 
+         3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4))), 
+      {up, 0, 1 - u0}])/(f3^2*m3^4) + (((7*I)/3)*e*E^(m3^2/Msq - zero)*eqd*
+     f3gamma*u0^3*HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][-((-1 + u0 + up)*(3*(-1 + 3*(-1 + 2*up)^2) + 
+         3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4))), 
+      {up, 0, 1 - u0}])/(f3^2*m3^4) + (((13*I)/8)*e*E^(m3^2/Msq - zero)*eqd*
+     f3gamma*HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][(-1 + u0 + up)^2*(3*(-1 + 3*(-1 + 2*up)^2) + 
+        3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4)), 
+      {up, 0, 1 - u0}])/(f3^2*m3^4) - 
+   ((2*I)*e*E^(m3^2/Msq - zero)*eqd*f3gamma*u*HoldForm[NIntegrate][
+      E^(-(s/Msq)), {s, 0, s0}]*HoldForm[NIntegrate][
+      (-1 + u0 + up)^2*(3*(-1 + 3*(-1 + 2*up)^2) + 
+        3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4)), 
+      {up, 0, 1 - u0}])/(f3^2*m3^4) + 
+   ((I/2)*e*E^(m3^2/Msq - zero)*eqd*f3gamma*u^2*HoldForm[NIntegrate][
+      E^(-(s/Msq)), {s, 0, s0}]*HoldForm[NIntegrate][
+      (-1 + u0 + up)^2*(3*(-1 + 3*(-1 + 2*up)^2) + 
+        3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4)), 
+      {up, 0, 1 - u0}])/(f3^2*m3^4) + (((13*I)/3)*e*E^(m3^2/Msq - zero)*eqd*
+     f3gamma*u0*HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][(-1 + u0 + up)^2*(3*(-1 + 3*(-1 + 2*up)^2) + 
+        3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4)), 
+      {up, 0, 1 - u0}])/(f3^2*m3^4) - 
+   ((3*I)*e*E^(m3^2/Msq - zero)*eqd*f3gamma*u*u0*HoldForm[NIntegrate][
+      E^(-(s/Msq)), {s, 0, s0}]*HoldForm[NIntegrate][
+      (-1 + u0 + up)^2*(3*(-1 + 3*(-1 + 2*up)^2) + 
+        3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4)), 
+      {up, 0, 1 - u0}])/(f3^2*m3^4) + (((5*I)/2)*e*E^(m3^2/Msq - zero)*eqd*
+     f3gamma*u0^2*HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][(-1 + u0 + up)^2*(3*(-1 + 3*(-1 + 2*up)^2) + 
+        3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4)), 
+      {up, 0, 1 - u0}])/(f3^2*m3^4) + (((2*I)/3)*e*E^(m3^2/Msq - zero)*eqd*
+     f3gamma*HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][-((-1 + u0 + up)^3*(3*(-1 + 3*(-1 + 2*up)^2) + 
+         3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4))), 
+      {up, 0, 1 - u0}])/(f3^2*m3^4) - 
+   ((I/3)*e*E^(m3^2/Msq - zero)*eqd*f3gamma*u*HoldForm[NIntegrate][
+      E^(-(s/Msq)), {s, 0, s0}]*HoldForm[NIntegrate][
+      -((-1 + u0 + up)^3*(3*(-1 + 3*(-1 + 2*up)^2) + 
+         3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4))), 
+      {up, 0, 1 - u0}])/(f3^2*m3^4) + (I*e*E^(m3^2/Msq - zero)*eqd*f3gamma*u0*
+     HoldForm[NIntegrate][E^(-(s/Msq)), {s, 0, s0}]*
+     HoldForm[NIntegrate][-((-1 + u0 + up)^3*(3*(-1 + 3*(-1 + 2*up)^2) + 
+         3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4))), 
+      {up, 0, 1 - u0}])/(f3^2*m3^4) + 
+   ((I/12)*e*E^(m3^2/Msq - zero)*eqd*f3gamma*HoldForm[NIntegrate][
+      E^(-(s/Msq)), {s, 0, s0}]*HoldForm[NIntegrate][
+      (-1 + u0 + up)^4*(3*(-1 + 3*(-1 + 2*up)^2) + 
+        3.1640625*(3 - 30*(-1 + 2*up)^2 + 35*(-1 + 2*up)^4)), 
+      {up, 0, 1 - u0}])/(f3^2*m3^4) - ((I/256)*e*E^(m3^2/Msq - zero)*eqd*mqd*
+     mqu*HoldForm[NIntegrate][Log[s/lam^2]/E^(s/Msq), {s, 0, s0}])/
+    (f3^2*m3^4*Pi^2) + ((I/256)*e*E^(m3^2/Msq - zero)*equ*mqd*mqu*
+     HoldForm[NIntegrate][Log[s/lam^2]/E^(s/Msq), {s, 0, s0}])/
+    (f3^2*m3^4*Pi^2) + ((I/8)*e*E^(m3^2/Msq - zero)*eqd*mqd*mqu*u0^2*
+     HoldForm[NIntegrate][Log[s/lam^2]/E^(s/Msq), {s, 0, s0}])/
+    (f3^2*m3^4*Pi^2) - ((I/8)*e*E^(m3^2/Msq - zero)*equ*mqd*mqu*u0^2*
+     HoldForm[NIntegrate][Log[s/lam^2]/E^(s/Msq), {s, 0, s0}])/
+    (f3^2*m3^4*Pi^2) - (I*e*E^(m3^2/Msq - zero)*eqd*mqd*mqu*u0^4*
+     HoldForm[NIntegrate][Log[s/lam^2]/E^(s/Msq), {s, 0, s0}])/
+    (f3^2*m3^4*Pi^2) + (I*e*E^(m3^2/Msq - zero)*equ*mqd*mqu*u0^4*
+     HoldForm[NIntegrate][Log[s/lam^2]/E^(s/Msq), {s, 0, s0}])/
+    (f3^2*m3^4*Pi^2))/e)

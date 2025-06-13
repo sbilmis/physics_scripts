@@ -1,0 +1,104 @@
+
+* ParticleData Tutorial in Mathematica
+
+** 1. What is ParticleData?
+ParticleData is a built-in Wolfram Language function that provides access to a comprehensive database of elementary particles and their physical properties.
+
+** 2. Basic Syntax
+#+begin_src mathematica
+ParticleData["ParticleName", "Property"]
+ParticleData[Entity["Particle", {...}], "Property"]
+#+end_src
+
+** 3. List All Particles
+#+begin_src mathematica
+ParticleData[]
+#+end_src
+
+** 4. List All Available Properties
+#+begin_src mathematica
+ParticleData["Properties"]
+#+end_src
+
+** 5. Search by Keyword (e.g. Xi_c)
+#+begin_src mathematica
+searchParticles[keyword_] := Select[ParticleData[], StringContainsQ[ToString[#], keyword] &]
+#+end_src
+
+** 6. View Properties in Table
+#+begin_src mathematica
+makeParticleTable[particles_List] := Dataset[
+  Table[
+    <|
+      "Label" -> ToString[p, InputForm],
+      "Mass" -> ParticleData[p, "Mass"],
+      "Lifetime" -> ParticleData[p, "Lifetime"],
+      "Charge" -> ParticleData[p, "Charge"],
+      "Spin" -> ParticleData[p, "Spin"],
+      "Parity" -> ParticleData[p, "Parity"],
+      "Isospin" -> ParticleData[p, "Isospin"]
+    |>,
+    {p, particles}
+  ]
+]
+#+end_src
+
+** 7. Get Excitations Table
+#+begin_src mathematica
+getExcitationsTable[p_] := Module[{excitedStates},
+  excitedStates = ParticleData[p, "Excitations"];
+  Dataset[
+    Table[
+      <|
+        "Label" -> ToString[state, InputForm],
+        "Mass" -> ParticleData[state, "Mass"],
+        "Lifetime" -> ParticleData[state, "Lifetime"]
+      |>,
+      {state, excitedStates}
+    ]
+  ]
+]
+#+end_src
+
+** 8. Parse Spectroscopic Labels
+#+begin_src mathematica
+waveToL = <| "S" -> 0, "P" -> 1, "D" -> 2, "F" -> 3, "G" -> 4 |>;
+parseSpectroscopicLabel[str_String] := Module[{label, wave, jStr},
+  label = StringCases[str, RegularExpression["([SPDGF])(\d)(\d)"] -> {"$1", "$2", "$3"}];
+  If[label === {}, Return[<|"L" -> Missing[], "J" -> Missing[]|>]];
+  {wave, _, jStr} = First[label];
+  <|"L" -> Lookup[waveToL, wave, Missing[]], "J" -> ToExpression[jStr]/2|>
+]
+#+end_src
+
+** 9. Unified Search Function
+#+begin_src mathematica
+fullParticleSearch[keyword_String] := Module[{particles},
+  particles = searchParticles[keyword];
+  Dataset[
+    Table[
+      Module[{label = ToString[p]},
+        Join[
+          <|
+            "Label" -> label,
+            "Mass" -> ParticleData[p, "Mass"],
+            "Lifetime" -> ParticleData[p, "Lifetime"],
+            "Charge" -> ParticleData[p, "Charge"],
+            "Spin" -> ParticleData[p, "Spin"],
+            "Parity" -> ParticleData[p, "Parity"],
+            "Isospin" -> ParticleData[p, "Isospin"]
+          |>,
+          parseSpectroscopicLabel[label]
+        ]
+      ],
+      {p, particles}
+    ]
+  ]
+]
+#+end_src
+
+** 10. Assign Particle to Variable
+#+begin_src mathematica
+lambda0 = \[Lambda]^0;
+ParticleData[lambda0, "Mass"]
+#+end_src
